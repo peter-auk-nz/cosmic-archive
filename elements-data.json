@@ -1,0 +1,1535 @@
+[
+  {
+    "name": "Hydrogen",
+    "symbol": "H",
+    "atomicNumber": 1,
+    "atomicWeight": 1.01,
+    "meltingPoint": -259.16,
+    "boilingPoint": -252.87,
+    "discoveryDate": "1766",
+    "discoverer": "Henry Cavendish",
+    "stateAtroomTemperature": "A gas",
+    "description": "Hydrogen is the most abundant element in the universe"
+  },
+
+  {
+    "name": "Helium",
+    "symbol": "He",
+    "atomicNumber": 2,
+    "atomicWeight": 4.000,
+    "meltingPoint": -268.930,
+    "boilingPoint": -272.200,
+    "discoveryDate": "1868",
+    "discoverer": "Pierre Jules Cesar Janssenh",
+    "stateAtroomTemperature": "A gas",
+    "description": "Helium is the second most abundant element in the universe"
+  },
+
+  {
+    "name": "Lithium",
+    "symbol": "Li",
+    "atomicNumber": 3,
+    "atomicWeight": 6.940,
+    "meltingPoint": 180.500,
+    "boilingPoint": 1342.000,
+    "discoveryDate": "1817",
+    "discoverer": "Johan August Arfvedson",
+    "stateAtroomTemperature": "A solid",
+    "description": "An alkali metal"
+  },
+
+  {
+    "name": "Beryllium",
+    "symbol": "Be",
+    "atomicNumber": 4,
+    "atomicWeight": 9.012,
+    "meltingPoint": 1287.000,
+    "boilingPoint": 2468.000,
+    "discoveryDate": "1797",
+    "discoverer": "Nicholas Louis Vauquelin",
+    "stateAtroomTemperature": "A solid",
+    "description": "An alkali earth metal"
+  },
+
+  {
+    "name": "Boron",
+    "symbol": "B",
+    "atomicNumber": 5,
+    "atomicWeight":10.810 ,
+    "meltingPoint": 2077.000,
+    "boilingPoint": 4000.000,
+    "discoveryDate": "1808",
+    "discoverer": "Loui-Josef, Gay-Lussac and Louis-Jacques Thénared in Paris, France. Humphry Davy in London, England.",
+    "stateAtroomTemperature": "A solid",
+    "description": "A metalloid"
+  },
+
+  {
+    "name": "Carbon",
+    "symbol": "C",
+    "atomicNumber": 6,
+    "atomicWeight": 12.011 ,
+    "meltingPoint": 3825.000,
+    "boilingPoint": 3825.000,
+    "discoveryDate": "Prehistoric",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description": "A non-metal"
+  },
+
+  {
+    "name": "Nitrogen",
+    "symbol": "N",
+    "atomicNumber": 7,
+    "atomicWeight": 14.007 ,
+    "meltingPoint": -210.000,
+    "boilingPoint": -195.700,
+    "discoveryDate": "1772",
+    "discoverer": "Daniel Rutherford",
+    "stateAtroomTemperature": "A gas",
+    "description": "A non-metal"
+  },
+
+  {
+    "name": "Oxygen",
+    "symbol": "O",
+    "atomicNumber": 8,
+    "atomicWeight": 15.999,
+    "meltingPoint": -218.790,
+    "boilingPoint": -182.960,
+    "discoveryDate": "1774",
+    "discoverer": "Joseph Priestley, Wiltshire, England. Carl Wilhelm Scheele (independently) in Uppsala, Sweden",
+    "stateAtroomTemperature": "A gas",
+    "description": "A non-metal"
+  },
+
+  {
+    "name": "Florine",
+    "symbol": "F",
+    "atomicNumber": 9,
+    "atomicWeight": 18.998,
+    "meltingPoint": -219.670,
+    "boilingPoint": -188.110,
+    "discoveryDate": "1886",
+    "discoverer": "Henri Moissan",
+    "stateAtroomTemperature": "A gas",
+    "description": "A halogen"
+  },
+
+  {
+    "name": "Neon",
+    "symbol": "Ne",
+    "atomicNumber": 10,
+    "atomicWeight": 20.180,
+    "meltingPoint": -248.590,
+    "boilingPoint": -246.040,
+    "discoveryDate": "1898",
+    "discoverer": "Sir William Ramsey and Morris Travers",
+    "stateAtroomTemperature": "A gas",
+    "description": "A noble gas" 
+  },
+
+  {
+    "name": "Sodium",
+    "symbol": "Na",
+    "atomicNumber": 11,
+    "atomicWeight": 22.990,
+    "meltingPoint": 97.794,
+    "boilingPoint": 882.940,
+    "discoveryDate": "1807",
+    "discoverer": "Humphry Davy",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali metal"
+  },
+
+  {
+    "name": "Magnesium",
+    "symbol": "Mg",
+    "atomicNumber": 12,
+    "atomicWeight": 24.305,
+    "meltingPoint": 650.000,
+    "boilingPoint": 1090.000,
+    "discoveryDate": "1755",
+    "discoverer": "Joseph Black",
+    "stateAtroomTemperature": "A solid",
+    "description":" An alkaline earth metal"
+  },
+
+  {
+    "name": "Aluminum",
+    "symbol": "Al",
+    "atomicNumber": 13,
+    "atomicWeight": 26.982,
+    "meltingPoint": 660.320,
+    "boilingPoint": 2519.000,
+    "discoveryDate": "1825",
+    "discoverer": "Hans Oersted",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+  },
+
+  {
+    "name": "Silicon",
+    "symbol": "Si",
+    "atomicNumber": 14,
+    "atomicWeight": 28.085,
+    "meltingPoint": 1414.000,
+    "boilingPoint": 3265.000,
+    "discoveryDate": "1824",
+    "discoverer": "Jön Jacob Berzelius",
+    "stateAtroomTemperature": "A solid",
+    "description":"A metalloid"
+  },
+
+  {
+    "name": "Phosphorus",
+    "symbol": "P",
+    "atomicNumber": 15,
+    "atomicWeight": 30.974,
+    "meltingPoint": 44.150,
+    "boilingPoint": 280.500,
+    "discoveryDate": "1669",
+    "discoverer": "Hennig Brandt",
+    "stateAtroomTemperature": "A solid",
+    "description":"A non-metal"
+  },
+
+  {
+    "name": "Sulfer",
+    "symbol": "S",
+    "atomicNumber": 16,
+    "atomicWeight": 32.060,
+    "meltingPoint": 115.210,
+    "boilingPoint": 444.610,
+    "discoveryDate": "Prehistoric",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A non-metal"
+  },
+
+  {
+    "name": "Chlorine",
+    "symbol": "Cl",
+    "atomicNumber": 17,
+    "atomicWeight": 35.450,
+    "meltingPoint": -101.500,
+    "boilingPoint": -34.040,
+    "discoveryDate": "1774",
+    "discoverer": "Carl Wilhelm Scheele",
+    "stateAtroomTemperature": "A gas",
+    "description":"A halogen"
+  },
+
+  {
+    "name": "Argon",
+    "symbol": "Ar",
+    "atomicNumber": 18,
+    "atomicWeight": 39.950,
+    "meltingPoint": -189.340,
+    "boilingPoint": -185.848,
+    "discoveryDate": "1894",
+    "discoverer": "Lord Rayleigh and Sir William Ramsey",
+    "stateAtroomTemperature": "A gas",
+    "description":"A noble gas"
+  },
+
+  {
+    "name": "Potassium",
+    "symbol": "K",
+    "atomicNumber": 19,
+    "atomicWeight": 39.098,
+    "meltingPoint": 63.500,
+    "boilingPoint": 759.000,
+    "discoveryDate": "1807",
+    "discoverer": "Humphry Davy",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali metal"
+  },
+
+  {
+    "name": "Calcium",
+    "symbol": "Ca",
+    "atomicNumber": 20,
+    "atomicWeight": 40.078,
+    "meltingPoint": 842.000,
+    "boilingPoint": 1484.000,
+    "discoveryDate": "1808",
+    "discoverer": "Humphry Davy",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali earth metal"
+  },
+
+  {
+    "name": "Scandium",
+    "symbol": "Sc",
+    "atomicNumber": 21,
+    "atomicWeight": 44.956,
+    "meltingPoint": 1541.000,
+    "boilingPoint": 2386.000,
+    "discoveryDate": "1879",
+    "discoverer": "Lars Frederik Nilson",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+  },
+
+  {
+    "name": "Titanium",
+    "symbol": "Ti",
+    "atomicNumber": 22,
+    "atomicWeight": 47.867,
+    "meltingPoint": 1670.000,
+    "boilingPoint": 3287.000,
+    "discoveryDate": "1791",
+    "discoverer": "William Gregor",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+  },
+
+  {
+    "name": "Vanadium",
+    "symbol": "V",
+    "atomicNumber": 23,
+    "atomicWeight": 50.942,
+    "meltingPoint": 1910.000,
+    "boilingPoint": 3407.000,
+    "discoveryDate": "1801",
+    "discoverer": "Andrés Manuel del Rio",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+  },
+
+{
+   "name": "Chromium",
+    "symbol": "Cr",
+    "atomicNumber": 24,
+    "atomicWeight": 51.996,
+    "meltingPoint": 1907.000,
+    "boilingPoint": 2671.000,
+    "discoveryDate": "1798",
+    "discoverer": "Nicholas Louis Vauquelin",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Manganese",
+    "symbol": "Mn",
+    "atomicNumber": 25,
+    "atomicWeight": 54.938,
+    "meltingPoint": 1246.000,
+    "boilingPoint": 2061.000,
+    "discoveryDate": "1774",
+    "discoverer": "Johan Gottlieb Gahn",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Iron",
+    "symbol": "Fe",
+    "atomicNumber": 26,
+    "atomicWeight": 55.845,
+    "meltingPoint": 1538.000,
+    "boilingPoint": 2861.000,
+    "discoveryDate": "3500BC (aproximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Cobolt",
+    "symbol": "Co",
+    "atomicNumber": 27,
+    "atomicWeight": 58.933,
+    "meltingPoint": 1495.000,
+    "boilingPoint": 2927.000,
+    "discoveryDate": "1739",
+    "discoverer": "Georg Brandt",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Nickel",
+    "symbol": "Ni",
+    "atomicNumber": 28,
+    "atomicWeight": 58.693,
+    "meltingPoint": 1455.000,
+    "boilingPoint": 2913.000,
+    "discoveryDate": "1751",
+    "discoverer": "Axel Fredrik Cronstedt",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+   "name": "Copper",
+    "symbol": "Cu",
+    "atomicNumber": 29,
+    "atomicWeight": 63.546,
+    "meltingPoint": 1084.620,
+    "boilingPoint": 2560.000,
+    "discoveryDate": "Prehistoric",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Zinc",
+    "symbol": "Zn",
+    "atomicNumber": 30,
+    "atomicWeight": 65.380,
+    "meltingPoint": 419.527,
+    "boilingPoint": 907.000,
+    "discoveryDate": "1746",
+    "discoverer": "Andreas Marggraf",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Gallium",
+    "symbol": "Ga",
+    "atomicNumber": 31,
+    "atomicWeight": 69.273,
+    "meltingPoint":29.7646,
+    "boilingPoint": 907.000,
+    "discoveryDate": "1875",
+    "discoverer": "Paul-Émile Lecoq de Boisbaudran",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Germanium",
+    "symbol": "Ge",
+    "atomicNumber": 32,
+    "atomicWeight": 938.25,
+    "meltingPoint":938.250,
+    "boilingPoint": 2833.000,
+    "discoveryDate": "1886",
+    "discoverer": "Clemens Winkler",
+    "stateAtroomTemperature": "A solid",
+    "description":"A metalloid"
+},
+
+{
+  "name": "Arsenic",
+    "symbol": "As",
+    "atomicNumber": 33,
+    "atomicWeight": 74.922,
+    "meltingPoint": 616.000,
+    "boilingPoint": 616.000,
+    "discoveryDate": "1250 (approximately)",
+    "discoverer": "Albertus Magnus",
+    "stateAtroomTemperature": "A solid",
+    "description":"A metalloid"
+},
+
+{
+  "name": "Selenium",
+    "symbol": "Se",
+    "atomicNumber": 34,
+    "atomicWeight": 78.971,
+    "meltingPoint": 220.800,
+    "boilingPoint": 685.000,
+    "discoveryDate": "1817",
+    "discoverer": "Jöns Jacob Berzelius",
+    "stateAtroomTemperature": "A solid",
+    "description":"A non-metal"
+},
+
+{
+  "name": "Bromine",
+    "symbol": "Br",
+    "atomicNumber": 35,
+    "atomicWeight": 79.904,
+    "meltingPoint": -7.200,
+    "boilingPoint": 58.800,
+    "discoveryDate": "1826",
+    "discoverer": "Antoine-Jérôme Balard in Montpellier, France and Carl Löwig in Heidelberg, Germany",
+    "stateAtroomTemperature": "A liquid",
+    "description":"A halogen"
+},
+
+{
+  "name": "Krypton",
+    "symbol": "Kr",
+    "atomicNumber": 36,
+    "atomicWeight": 83.798,
+    "meltingPoint": -157.370,
+    "boilingPoint": -153.415,
+    "discoveryDate": "1898",
+    "discoverer": "Sir William Ramsay and Morris Travers",
+    "stateAtroomTemperature": "A gas",
+    "description":"A noble gas"
+},
+
+{
+  "name": "Rubidium",
+    "symbol": "Rb",
+    "atomicNumber": 37,
+    "atomicWeight": 85.468,
+    "meltingPoint": 39.300,
+    "boilingPoint": 688.000,
+    "discoveryDate": "1861",
+    "discoverer": "Gustav Kirchhoff and Robert Bunsen",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali metal"
+},
+
+{
+  "name": "Strontium",
+    "symbol": "Sr",
+    "atomicNumber": 38,
+    "atomicWeight": 87.620,
+    "meltingPoint": 39.300,
+    "boilingPoint": 777.000,
+    "discoveryDate": "1790",
+    "discoverer": "Adair Crawford",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkaline earth metal"
+},
+
+{
+  "name": "Yttrium",
+    "symbol": "Y",
+    "atomicNumber": 39,
+    "atomicWeight": 88.906,
+    "meltingPoint": 1522.000,
+    "boilingPoint": 3345.000,
+    "discoveryDate": "1794",
+    "discoverer": "Johan Gadolin",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Zirconium",
+    "symbol": "Zr",
+    "atomicNumber": 40,
+    "atomicWeight": 91.224,
+    "meltingPoint": 1854.000,
+    "boilingPoint": 4406.000,
+    "discoveryDate": "1789",
+    "discoverer": "Martin Heinrich Klaproth",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Niobium",
+    "symbol": "Nb",
+    "atomicNumber": 41,
+    "atomicWeight": 92.906,
+    "meltingPoint": 2477.000,
+    "boilingPoint": 4741.000,
+    "discoveryDate": "1801",
+    "discoverer": "Charles Hatchet",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Molybdenum",
+    "symbol": "Mo",
+    "atomicNumber": 42,
+    "atomicWeight": 95.950,
+    "meltingPoint": 2622.000,
+    "boilingPoint": 4639.000,
+    "discoveryDate": "1781",
+    "discoverer": "Peter Jacob Hjelm",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Technetium",
+    "symbol": "Tc",
+    "atomicNumber": 43,
+    "atomicWeight": 98.000,
+    "meltingPoint": 2157.000,
+    "boilingPoint": 4262.000,
+    "discoveryDate": "1937",
+    "discoverer": "Carlo Perrier and Emilio Segrè",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+   "name": "Ruthenium",
+    "symbol": "Ru",
+    "atomicNumber": 44,
+    "atomicWeight": 98.000,
+    "meltingPoint": 2333.000,
+    "boilingPoint": 4147.000,
+    "discoveryDate": "1844",
+    "discoverer": "Karl Karlovich Klaus",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Rhodium",
+    "symbol": "Rh",
+    "atomicNumber": 45,
+    "atomicWeight": 102.906,
+    "meltingPoint": 1963.000,
+    "boilingPoint": 3695.000,
+    "discoveryDate": "1803",
+    "discoverer": "William Hyde Wollaston",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Palladium",
+    "symbol": "Pd",
+    "atomicNumber": 46,
+    "atomicWeight": 106.420,
+    "meltingPoint": 1554.800,
+    "boilingPoint": 2963.000,
+    "discoveryDate": "1803",
+    "discoverer": "William Hyde Wollaston",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Silver",
+    "symbol": "Ag",
+    "atomicNumber": 47,
+    "atomicWeight": 107.868,
+    "meltingPoint": 961.780,
+    "boilingPoint": 2162.000,
+    "discoveryDate": "3000BC (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Cadmium",
+    "symbol": "Cd",
+    "atomicNumber": 48,
+    "atomicWeight": 112.414,
+    "meltingPoint": 321.069,
+    "boilingPoint": 767.000,
+    "discoveryDate": "1817",
+    "discoverer": "Friedrich Stromeyer",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Indium",
+    "symbol": "In",
+    "atomicNumber": 49,
+    "atomicWeight": 114.818,
+    "meltingPoint": 156.600,
+    "boilingPoint": 2027.000,
+    "discoveryDate": "1863",
+    "discoverer": "Ferdinand Reich and Hieronymous Richter",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Tin",
+    "symbol": "Sn",
+    "atomicNumber": 50,
+    "atomicWeight": 118.710,
+    "meltingPoint": 231.928,
+    "boilingPoint": 2586.000,
+    "discoveryDate": "2100BC (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Antimony",
+    "symbol": "Sb",
+    "atomicNumber": 51,
+    "atomicWeight": 121.760,
+    "meltingPoint": 630.628,
+    "boilingPoint": 1587.000,
+    "discoveryDate": "1600BC (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A metalloid"
+},
+
+{
+  "name": "Tellurium",
+    "symbol": "Te",
+    "atomicNumber": 52,
+    "atomicWeight": 127.600,
+    "meltingPoint": 449.510,
+    "boilingPoint": 988.000,
+    "discoveryDate": "1783",
+    "discoverer": "Franz-Joseph Müller von Reichenstein",
+    "stateAtroomTemperature": "A solid",
+    "description":"A metalloid"
+},
+
+{
+  "name": "Iodine",
+    "symbol": "I",
+    "atomicNumber": 53,
+    "atomicWeight": 126.904,
+    "meltingPoint": 113.700,
+    "boilingPoint": 184.400,
+    "discoveryDate": "1811",
+    "discoverer": "Bernard Courtois",
+    "stateAtroomTemperature": "A solid",
+    "description":"A halogen"
+},
+
+{
+  "name": "Xenon",
+    "symbol": "Xe",
+    "atomicNumber": 54,
+    "atomicWeight": 131.293,
+    "meltingPoint": -111.750,
+    "boilingPoint": -108.099,
+    "discoveryDate": "1898",
+    "discoverer": "Sir William Ramsay and Morris Travers",
+    "stateAtroomTemperature": "A gas",
+    "description":"A noble gas"
+},
+
+{
+  "name": "Cesium",
+    "symbol": "Cs",
+    "atomicNumber": 55,
+    "atomicWeight": 132.905,
+    "meltingPoint": 28.500,
+    "boilingPoint": 671.000,
+    "discoveryDate": "1860",
+    "discoverer": "Gustav Kirchhoff and Robert Bunsen",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali metal"
+},
+
+{
+  "name": "Barium",
+    "symbol": "Ba",
+    "atomicNumber": 56,
+    "atomicWeight": 137.327,
+    "meltingPoint": 727.000,
+    "boilingPoint": 1845.000,
+    "discoveryDate": "1808",
+    "discoverer": "Humphry Davy",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali earth metal"
+},
+
+{
+  "name": "Lanthanum",
+    "symbol": "La",
+    "atomicNumber": 57,
+    "atomicWeight": 138.905,
+    "meltingPoint": 920.000,
+    "boilingPoint": 3464.000,
+    "discoveryDate": "1839",
+    "discoverer": "Carl Gustav Mosander",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Cerium",
+    "symbol": "Ce",
+    "atomicNumber": 58,
+    "atomicWeight": 140.166,
+    "meltingPoint": 799.000,
+    "boilingPoint": 3443.000,
+    "discoveryDate": "1803",
+    "discoverer": "Jön Jacob Berzelius and Wilhelm Hisinger",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Praseodymium",
+    "symbol": "Pr",
+    "atomicNumber": 59,
+    "atomicWeight": 140.908,
+    "meltingPoint": 931.000,
+    "boilingPoint": 3520.000,
+    "discoveryDate": "1885",
+    "discoverer": "Carl Auer von Welsbach",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+   "name": "Neodymium",
+    "symbol": "Nd",
+    "atomicNumber": 60,
+    "atomicWeight": 144.242,
+    "meltingPoint": 1016.000,
+    "boilingPoint": 3074.000,
+    "discoveryDate": "1885",
+    "discoverer": "Carl Auer von Welsbach",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Promethium",
+    "symbol": "Pm",
+    "atomicNumber": 61,
+    "atomicWeight": 145.000,
+    "meltingPoint": 1042.000,
+    "boilingPoint": 3000.000,
+    "discoveryDate": "1945",
+    "discoverer": "Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Samarium",
+    "symbol": "Sm",
+    "atomicNumber": 62,
+    "atomicWeight": 150.360,
+    "meltingPoint": 1072.000,
+    "boilingPoint": 1794.000,
+    "discoveryDate": "1879",
+    "discoverer": "Paul-Émile Lecoq de Boisbaudran",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Europium",
+    "symbol": "Eu",
+    "atomicNumber": 63,
+    "atomicWeight": 151.964,
+    "meltingPoint": 822.000,
+    "boilingPoint": 1529.000,
+    "discoveryDate": "1901",
+    "discoverer": "Eugène-Anatole Demarçay",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Gadolinium",
+    "symbol": "Gd",
+    "atomicNumber": 64,
+    "atomicWeight": 157.250,
+    "meltingPoint": 1313.000,
+    "boilingPoint": 3273.000,
+    "discoveryDate": "1880",
+    "discoverer": "Jean Charles Galissard de Marignac",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Terbium",
+    "symbol": "Gd",
+    "atomicNumber": 65,
+    "atomicWeight": 158.925,
+    "meltingPoint": 1359.000,
+    "boilingPoint": 3230.000,
+    "discoveryDate": "1843",
+    "discoverer": "Carl Gustav Mosander",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Dysprosium",
+    "symbol": "Dy",
+    "atomicNumber": 66,
+    "atomicWeight": 162.500,
+    "meltingPoint": 1412.000,
+    "boilingPoint": 2567.000,
+    "discoveryDate": "1886",
+    "discoverer": "Paul-Émile Lecoq de Boisbaudran",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Holmium",
+    "symbol": "Ho",
+    "atomicNumber": 67,
+    "atomicWeight": 164.930,
+    "meltingPoint": 1472.000,
+    "boilingPoint": 2700.000,
+    "discoveryDate": "1878",
+    "discoverer": "Per Teodor Cleve at Uppsala, Sweden. Independently by Marc Delafontaine and Louis Soret in Geneva, Switzerland",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Erbium",
+    "symbol": "Ho",
+    "atomicNumber": 68,
+    "atomicWeight": 167.259,
+    "meltingPoint": 1529.000,
+    "boilingPoint": 2868.000,
+    "discoveryDate": "1843",
+    "discoverer": "Carl Gustav Mosander",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Thulium",
+    "symbol": "Tm",
+    "atomicNumber": 69,
+    "atomicWeight": 168.934,
+    "meltingPoint": 1545.000,
+    "boilingPoint": 1950.000,
+    "discoveryDate": "1879",
+    "discoverer": "Per Teodor Cleve",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Ytterbium",
+    "symbol": "Yb",
+    "atomicNumber": 70,
+    "atomicWeight": 173.045,
+    "meltingPoint": 824.000,
+    "boilingPoint": 1196.000,
+    "discoveryDate": "1878",
+    "discoverer": "Jean Charles Galissard de Marignac",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+   "name": "Lutetium",
+    "symbol": "Lu",
+    "atomicNumber": 71,
+    "atomicWeight": 174.967,
+    "meltingPoint": 1663.000,
+    "boilingPoint": 3402.000,
+    "discoveryDate": "1907",
+    "discoverer": "Georges Urbain in Paris, France. Independently by Charles James in New Hampshire, USA",
+    "stateAtroomTemperature": "A solid",
+    "description":"A lanthanide"
+},
+
+{
+  "name": "Hafnium",
+    "symbol": "Hf",
+    "atomicNumber": 72,
+    "atomicWeight": 178.486,
+    "meltingPoint": 2233.000,
+    "boilingPoint": 4600.000,
+    "discoveryDate": "1923",
+    "discoverer": "George Charles de Hevesy and Dirk Coster",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Tantalum",
+    "symbol": "Ta",
+    "atomicNumber": 73,
+    "atomicWeight": 180.948,
+    "meltingPoint": 3017.000,
+    "boilingPoint": 5455.000,
+    "discoveryDate": "1802",
+    "discoverer": "Anders Gustav Ekeberg",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Tungsten",
+    "symbol": "W",
+    "atomicNumber": 74,
+    "atomicWeight": 183.84,
+    "meltingPoint": 3414.000,
+    "boilingPoint": 5555.000,
+    "discoveryDate": "1783",
+    "discoverer": "Juan and Fausto Elhuyar",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Rhenium",
+    "symbol": "Re",
+    "atomicNumber": 75,
+    "atomicWeight": 186.207,
+    "meltingPoint": 3185.000,
+    "boilingPoint": 5590.000,
+    "discoveryDate": "1925",
+    "discoverer": "Walter Noddack, Ida Tacke and Otto Berg",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Osmium",
+    "symbol": "Os",
+    "atomicNumber": 76,
+    "atomicWeight": 190.230,
+    "meltingPoint": 3033.000,
+    "boilingPoint": 5008.000,
+    "discoveryDate": "1803",
+    "discoverer": "Smithson Tennant",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Iridium",
+    "symbol": "Ir",
+    "atomicNumber": 77,
+    "atomicWeight": 192.217,
+    "meltingPoint": 2446.000,
+    "boilingPoint": 4428.000,
+    "discoveryDate": "1803",
+    "discoverer": "Smithson Tennant",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+  
+{
+  "name": "Paltinum",
+    "symbol": "Pt",
+    "atomicNumber": 78,
+    "atomicWeight": 195.084,
+    "meltingPoint": 1768.200,
+    "boilingPoint": 3825.000,
+    "discoveryDate": "1750 (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Gold",
+    "symbol": "Au",
+    "atomicNumber": 79,
+    "atomicWeight": 196.967,
+    "meltingPoint": 1064.180,
+    "boilingPoint": 2836.000,
+    "discoveryDate": "3000BC (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Mercury",
+    "symbol": "Hg",
+    "atomicNumber": 80,
+    "atomicWeight": 200.592,
+    "meltingPoint": -38.829,
+    "boilingPoint": 356.619,
+    "discoveryDate": "1500BC (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A liquid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Thallium",
+    "symbol": "Tl",
+    "atomicNumber": 81,
+    "atomicWeight": 204.380,
+    "meltingPoint": 304.000,
+    "boilingPoint": 1473.000,
+    "discoveryDate": "1861",
+    "discoverer": "William Crookes",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Lead",
+    "symbol": "Tl",
+    "atomicNumber": 82,
+    "atomicWeight": 207.200,
+    "meltingPoint": 327.462,
+    "boilingPoint": 1749.000,
+    "discoveryDate": "Primitive",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Bismuth",
+    "symbol": "Tl",
+    "atomicNumber": 83,
+    "atomicWeight": 208.980,
+    "meltingPoint": 271.406,
+    "boilingPoint": 1564.000,
+    "discoveryDate": "1500 (approximately)",
+    "discoverer": "Unknown",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Polonium",
+    "symbol": "Po",
+    "atomicNumber": 84,
+    "atomicWeight": 200.000,
+    "meltingPoint": 254.000,
+    "boilingPoint": 962.000,
+    "discoveryDate": "1898",
+    "discoverer": "Marie Curie",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Astatine",
+    "symbol": "At",
+    "atomicNumber": 85,
+    "atomicWeight": 210.000,
+    "meltingPoint": 300.000,
+    "boilingPoint": 350.000,
+    "discoveryDate": "1940",
+    "discoverer": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Serge",
+    "stateAtroomTemperature": "A solid",
+    "description":"A halogen"
+},
+
+{
+  "name": "Radon",
+    "symbol": "Rn",
+    "atomicNumber": 86,
+    "atomicWeight": 222.000,
+    "meltingPoint": -71.000,
+    "boilingPoint": -61.700,
+    "discoveryDate": "1900",
+    "discoverer": "Friedrich Ernst Dorn",
+    "stateAtroomTemperature": "A gas",
+    "description":"A noble gas"
+},
+
+{
+  "name": "Francium",
+    "symbol": "Fr",
+    "atomicNumber": 87,
+    "atomicWeight": 223.000,
+    "meltingPoint": 21.000,
+    "boilingPoint": 650.000,
+    "discoveryDate": "1939",
+    "discoverer": "Marguerite Perey",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkali metal"
+},
+
+{
+  "name": "Radium",
+    "symbol": "Ra",
+    "atomicNumber": 88,
+    "atomicWeight": 226.000,
+    "meltingPoint": 696.000,
+    "boilingPoint": 1500.000,
+    "discoveryDate": "1898",
+    "discoverer": "Pierre and Marie Curie",
+    "stateAtroomTemperature": "A solid",
+    "description":"An alkaline earth metal"
+},
+
+{
+  "name": "Actinium",
+    "symbol": "Ac",
+    "atomicNumber": 89,
+    "atomicWeight": 227.000,
+    "meltingPoint": 1050.000,
+    "boilingPoint": 3200.000,
+    "discoveryDate": "1899",
+    "discoverer": "Andrew Debierne",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Thorium",
+    "symbol": "Th",
+    "atomicNumber": 90,
+    "atomicWeight": 232.038,
+    "meltingPoint": 1750.000,
+    "boilingPoint": 4785.000,
+    "discoveryDate": "1829",
+    "discoverer": "Jöns Jacob Berzelius",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Protactinium",
+    "symbol": "Pa",
+    "atomicNumber": 91,
+    "atomicWeight": 231.036,
+    "meltingPoint": 1572.000,
+    "boilingPoint": 4000.000,
+    "discoveryDate": "1913",
+    "discoverer": "Kasimir Fajans and Otto Göhring",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Uranium",
+    "symbol": "U",
+    "atomicNumber": 92,
+    "atomicWeight": 238.390,
+    "meltingPoint": 1135.000,
+    "boilingPoint": 4131.000,
+    "discoveryDate": "1789",
+    "discoverer": "Martin Heinrich Klaproth",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Neptunium",
+    "symbol": "Np",
+    "atomicNumber": 93,
+    "atomicWeight": 237,
+    "meltingPoint": 644.000,
+    "boilingPoint": 3902.000,
+    "discoveryDate": "1940",
+    "discoverer": "Edwin McMillan and Phillip Abelson",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Plutonium",
+    "symbol": "Pu",
+    "atomicNumber": 94,
+    "atomicWeight": 244,
+    "meltingPoint": 640.000,
+    "boilingPoint": 3228.000,
+    "discoveryDate": "1940",
+    "discoverer": "Glenn Seaborg and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Americium",
+    "symbol": "Am",
+    "atomicNumber": 95,
+    "atomicWeight": 243,
+    "meltingPoint": 1176.000,
+    "boilingPoint": 2011.000,
+    "discoveryDate": "1944",
+    "discoverer": "Glenn Seaborg and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+   "name": "Curium",
+    "symbol": "Cm",
+    "atomicNumber": 96,
+    "atomicWeight": 247,
+    "meltingPoint": 1345.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1944",
+    "discoverer": "Glenn Seaborg and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Berkelium",
+    "symbol": "Bk",
+    "atomicNumber": 97,
+    "atomicWeight": 247,
+    "meltingPoint": 986.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1949",
+    "discoverer": "Stanley Thompson, Albert Ghiorso and Glenn Seaborg",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Californium",
+    "symbol": "Cf",
+    "atomicNumber": 98,
+    "atomicWeight": 251,
+    "meltingPoint": 900.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1950",
+    "discoverer": "Stanley Thompson, Kenneth Street, Jr., Albert Ghiorso and Glenn Seaborg",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Einsteinium",
+    "symbol": "Es",
+    "atomicNumber": 99,
+    "atomicWeight": 252,
+    "meltingPoint": 860.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1952",
+    "discoverer": "Albert Ghiorso and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Fermium",
+    "symbol": "Fm",
+    "atomicNumber": 100,
+    "atomicWeight": 257,
+    "meltingPoint": 1527.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1953",
+    "discoverer": "Albert Ghiorso and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Mendelevium",
+    "symbol": "Md",
+    "atomicNumber": 101,
+    "atomicWeight": 258,
+    "meltingPoint": 827.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1955",
+    "discoverer": "Albert Ghiorso and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Nobelium",
+    "symbol": "No",
+    "atomicNumber": 102,
+    "atomicWeight": 259,
+    "meltingPoint": 827.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1963",
+    "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Lawrencium",
+    "symbol": "Lr",
+    "atomicNumber": 103,
+    "atomicWeight": 262,
+    "meltingPoint": 1627.000,
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1965",
+    "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
+    "stateAtroomTemperature": "A solid",
+    "description":"An actinide"
+},
+
+{
+  "name": "Rutherfordium",
+    "symbol": "Rf",
+    "atomicNumber": 104,
+    "atomicWeight": 267,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1964",
+    "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Dubnium",
+    "symbol": "Db",
+    "atomicNumber": 105,
+    "atomicWeight": 268,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1968-1970",
+    "discoverer": "Scientists at Berkeley, California and Dubna in Russia",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Seaborgium",
+    "symbol": "Sg",
+    "atomicNumber": 106,
+    "atomicWeight": 269,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1974",
+    "discoverer": "Albert Ghiorso and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Bohrium",
+    "symbol": "Bh",
+    "atomicNumber": 107,
+    "atomicWeight": 270,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1981",
+    "discoverer": "Peter Armbruster, Gottfried Münzenberg and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+   "name": "Hassium",
+    "symbol": "Hs",
+    "atomicNumber": 108,
+    "atomicWeight": 269,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1984",
+    "discoverer": "Peter Armbruster, Gottfried Münzenberg",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Meitnerium",
+    "symbol": "Mt",
+    "atomicNumber": 109,
+    "atomicWeight": 278,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1982",
+    "discoverer": "Peter Armbruster, Gottfried Münzenburg and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Darmstadtium",
+    "symbol": "Ds",
+    "atomicNumber": 110,
+    "atomicWeight": 281,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1994",
+    "discoverer": "Sigurd Hofmann, Peter Armbruster and Gottfried Münzenberg",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Roentgenium",
+    "symbol": "Rg",
+    "atomicNumber": 111,
+    "atomicWeight": 280,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1994",
+    "discoverer": "Peter Armbruster and Gottfried Münzenberg",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Copernicium",
+    "symbol": "Cn",
+    "atomicNumber": 112,
+    "atomicWeight": 285,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1996",
+    "discoverer": "Sigurd Hofmann and colleagues",
+    "stateAtroomTemperature": "A solid",
+    "description":"A transition metal"
+},
+
+{
+  "name": "Nihonium",
+    "symbol": "Nh",
+    "atomicNumber": 113,
+    "atomicWeight": 286,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "2004",
+    "discoverer": "Scientists from RIKEN",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Flerovium",
+    "symbol": "Fl",
+    "atomicNumber": 114,
+    "atomicWeight": 289,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1999",
+    "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Moscovium",
+    "symbol": "Mc",
+    "atomicNumber": 115,
+    "atomicWeight": 293,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "1999",
+    "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+
+{
+  "name": "Livermorium",
+    "symbol": "Lv",
+    "atomicNumber": 116,
+    "atomicWeight": 293,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "2000",
+    "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
+    "stateAtroomTemperature": "A solid",
+    "description":"A post-transition metal"
+},
+  
+{
+  "name": "Tennessine",
+    "symbol": "Ts",
+    "atomicNumber": 117,
+    "atomicWeight": 294,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "2010",
+    "discoverer": "Scientists at Dubna, Russia, the Lawrence Livermore National Laboratory, California, U.S.A. and Oak Ridge National Laboratory, Tennessee, U.S.A.",
+    "stateAtroomTemperature": "A solid",
+    "description":"A halogen"
+},
+
+{
+  "name": "Oganesson",
+    "symbol": "Og",
+    "atomicNumber": 118,
+    "atomicWeight": 294,
+    "meltingPoint": "Unknown",
+    "boilingPoint": "Unknown",
+    "discoveryDate": "2006",
+    "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
+    "stateAtroomTemperature": "A solid",
+    "description":"A noble gas"
+}
+]

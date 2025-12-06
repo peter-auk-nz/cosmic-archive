@@ -1,0 +1,33 @@
+body {
+  background-color: #1a1a2e;
+  color: #eee;
+  font-family: 'Inter', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+.element-heading {
+  color: #16f4d0;
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+p {
+  margin: 1rem 0;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 2rem;
+}
+
+strong {
+  color: #a0a0a0;
+  font-weight: 600;
+}
+
+span {
+  color: #ffffff;
+  font-weight: 400;
+}
