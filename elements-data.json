@@ -9,7 +9,8 @@
     "discoveryDate": "1766",
     "discoverer": "Henry Cavendish",
     "stateAtroomTemperature": "A gas",
-    "description": "Hydrogen is the most abundant element in the universe, and powers stars through nuclear fusion"
+    "description": "Hydrogen is the most abundant element in the universe, and powers stars through nuclear fusion",
+    "electronConfig": "Shell 1: ● (1)"
   },
 
   {
@@ -22,7 +23,8 @@
     "discoveryDate": "1868",
     "discoverer": "Pierre Jules Cesar Janssenh",
     "stateAtroomTemperature": "A gas",
-    "description": "Helium is the second most abundant element in the universe"
+    "description": "Helium is the second most abundant element in the universe",
+    "electronConfig": "Shell 1: ●● (2)"
   },
 
   {
@@ -35,7 +37,8 @@
     "discoveryDate": "1817",
     "discoverer": "Johan August Arfvedson",
     "stateAtroomTemperature": "A solid",
-    "description": "An alkali metal"
+    "description": "An alkali metal",
+    "electronConfig": "Shell 1: ●● (2) Shell 2: ● (1)"
   },
 
   {
@@ -48,7 +51,8 @@
     "discoveryDate": "1797",
     "discoverer": "Nicholas Louis Vauquelin",
     "stateAtroomTemperature": "A solid",
-    "description": "An alkali earth metal"
+    "description": "An alkali earth metal",
+    "electronConfig": "Shell 1: ●● (2) Shell 2: ●● (2)"
   },
 
   {
@@ -61,7 +65,8 @@
     "discoveryDate": "1808",
     "discoverer": "Loui-Josef, Gay-Lussac and Louis-Jacques Thénared in Paris, France. Humphry Davy in London, England.",
     "stateAtroomTemperature": "A solid",
-    "description": "A metalloid"
+    "description": "A metalloid",
+    "electronConfig": "Shell 1: ●● (2) Shell 2: ●●● (3)"
   },
 
   {

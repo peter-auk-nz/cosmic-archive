@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('discoverer').textContent = element.discoverer;
         document.getElementById('stateAtroomTemperature').textContent = element.stateAtroomTemperature;
         document.getElementById('description').textContent = element.description;
+        document.getElementById('electronConfig').textContent = element.electronConfig;
       }
     });
 });
