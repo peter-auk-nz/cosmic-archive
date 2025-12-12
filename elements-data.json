@@ -79,7 +79,8 @@
     "discoveryDate": "Prehistoric",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description": "A non-metal"
+    "description": "A non-metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●● (4)"
   },
 
   {
@@ -92,7 +93,8 @@
     "discoveryDate": "1772",
     "discoverer": "Daniel Rutherford",
     "stateAtroomTemperature": "A gas",
-    "description": "A non-metal"
+    "description": "A non-metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●● (5)"
   },
 
   {
@@ -105,7 +107,8 @@
     "discoveryDate": "1774",
     "discoverer": "Joseph Priestley, Wiltshire, England. Carl Wilhelm Scheele (independently) in Uppsala, Sweden",
     "stateAtroomTemperature": "A gas",
-    "description": "A non-metal"
+    "description": "A non-metal",
+    "electronConfig" : "Shell 1: ●● (2), Shell 2: ●●●●●● (6)"
   },
 
   {
@@ -118,7 +121,8 @@
     "discoveryDate": "1886",
     "discoverer": "Henri Moissan",
     "stateAtroomTemperature": "A gas",
-    "description": "A halogen"
+    "description": "A halogen",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●● (7)"
   },
 
   {
@@ -131,7 +135,8 @@
     "discoveryDate": "1898",
     "discoverer": "Sir William Ramsey and Morris Travers",
     "stateAtroomTemperature": "A gas",
-    "description": "A noble gas" 
+    "description": "A noble gas",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8)"
   },
 
   {
