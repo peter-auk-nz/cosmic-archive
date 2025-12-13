@@ -35,3 +35,23 @@ Quick lookup for electron shell configurations.
 ## git add .
 ## git commit -m "Added electron configurations for elements 6-10"
 ## git push
+
+**Sodium (11):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ● (1)
+
+**Magnesium (12):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●● (2)
+
+**Aluminum (13):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●● (3)
+
+**Silicon (14):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●● (4)
+
+**Phosphorus (15):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●● (5)
+
+**Sulfur (16):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●● (6)
+
+**Chlorine (17):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●● (7)
+
+**Argon (18):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8)
+
+## git add .
+## git commit -m "Added electron configurations for elements 11-18"
+## git push
