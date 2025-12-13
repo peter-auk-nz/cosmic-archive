@@ -149,8 +149,8 @@
     "discoveryDate": "1807",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal",
-    "electronConfig": "Sodium (11): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ● (1)"
+    "description": "An alkali metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ● (1)"
   },
 
   {
@@ -163,8 +163,8 @@
     "discoveryDate": "1755",
     "discoverer": "Joseph Black",
     "stateAtroomTemperature": "A solid",
-    "description":" An alkaline earth metal",
-    "electronConfig": "Magnesium (12): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●● (2)"
+    "description": "An alkaline earth metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●● (2)"
   },
 
   {
@@ -177,8 +177,8 @@
     "discoveryDate": "1825",
     "discoverer": "Hans Oersted",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal",
-    "electronConfig": "Aluminum (13): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●● (3)"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●● (3)"
   },
 
   {
@@ -191,8 +191,8 @@
     "discoveryDate": "1824",
     "discoverer": "Jön Jacob Berzelius",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid",
-    "electronConfig": "Silicon (14): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●● (4)"
+    "description": "A metalloid",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●● (4)"
   },
 
   {
@@ -205,8 +205,8 @@
     "discoveryDate": "1669",
     "discoverer": "Hennig Brandt",
     "stateAtroomTemperature": "A solid",
-    "description":"A non-metal",
-    "electronConfig": "Phosphorus (15): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●● (5)"
+    "description": "A non-metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●● (5)"
   },
 
   {
@@ -219,8 +219,8 @@
     "discoveryDate": "Prehistoric",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A non-metal",
-    "electronConfig": "Sulfur (16): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●● (6)"
+    "description": "A non-metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●● (6)"
   },
 
   {
@@ -233,8 +233,8 @@
     "discoveryDate": "1774",
     "discoverer": "Carl Wilhelm Scheele",
     "stateAtroomTemperature": "A gas",
-    "description":"A halogen",
-    "electronConfig": "Chlorine (17): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●● (7)"
+    "description": "A halogen",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●● (7)"
   },
 
   {
@@ -247,8 +247,8 @@
     "discoveryDate": "1894",
     "discoverer": "Lord Rayleigh and Sir William Ramsey",
     "stateAtroomTemperature": "A gas",
-    "description":"A noble gas",
-    "electronConfig": "Argon (18): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8)"
+    "description": "A noble gas",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8)"
   },
 
   {
@@ -261,8 +261,8 @@
     "discoveryDate": "1807",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal",
-    "electronConfig": "Potassium (19): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8), Shell 4: ● (1)"
+    "description": "An alkali metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8), Shell 4: ● (1)"
   },
 
   {
@@ -275,8 +275,8 @@
     "discoveryDate": "1808",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali earth metal",
-    "electronConfig": "Calcium (20): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8), Shell 4: ●● (2)"
+    "description": "An alkali earth metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8), Shell 4: ●● (2)"
   },
 
   {
@@ -289,8 +289,8 @@
     "discoveryDate": "1879",
     "discoverer": "Lars Frederik Nilson",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
-    "electronConfig": "Scandium (21): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●● (9), Shell 4: ●● (2)"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●● (9), Shell 4: ●● (2)"
   },
 
   {
@@ -303,7 +303,7 @@
     "discoveryDate": "1791",
     "discoverer": "William Gregor",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●● (10), Shell 4: ●● (2)"
   },
 
@@ -317,7 +317,7 @@
     "discoveryDate": "1801",
     "discoverer": "Andrés Manuel del Rio",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●● (11), Shell 4: ●● (2)"
   },
 
@@ -331,7 +331,7 @@
     "discoveryDate": "1798",
     "discoverer": "Nicholas Louis Vauquelin",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●● (13), Shell 4: ● (1)"
 },
 
@@ -345,7 +345,7 @@
     "discoveryDate": "1774",
     "discoverer": "Johan Gottlieb Gahn",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●● (13), Shell 4: ●● (2)"
 },
 
@@ -359,7 +359,7 @@
     "discoveryDate": "3500BC (aproximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●● (14), Shell 4: ●● (2)"
 
 },
@@ -374,7 +374,7 @@
     "discoveryDate": "1739",
     "discoverer": "Georg Brandt",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●● (15), Shell 4: ●● (2)"
 },
 
@@ -388,7 +388,7 @@
     "discoveryDate": "1751",
     "discoverer": "Axel Fredrik Cronstedt",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●● (16), Shell 4: ●● (2)"
 },
 
@@ -402,7 +402,7 @@
     "discoveryDate": "Prehistoric",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ● (1)"
 },
 
@@ -416,7 +416,7 @@
     "discoveryDate": "1746",
     "discoverer": "Andreas Marggraf",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal",
+    "description": "A transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●● (2)"
 },
 
@@ -430,7 +430,7 @@
     "discoveryDate": "1875",
     "discoverer": "Paul-Émile Lecoq de Boisbaudran",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal",
+    "description": "A post-transition metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●● (3)"
 },
 
@@ -444,7 +444,7 @@
     "discoveryDate": "1886",
     "discoverer": "Clemens Winkler",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid",
+    "description": "A metalloid",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●● (4)"
 },
 
@@ -458,7 +458,7 @@
     "discoveryDate": "1250 (approximately)",
     "discoverer": "Albertus Magnus",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid",
+    "description": "A metalloid",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●● (5)"
 },
 
@@ -472,7 +472,7 @@
     "discoveryDate": "1817",
     "discoverer": "Jöns Jacob Berzelius",
     "stateAtroomTemperature": "A solid",
-    "description":"A non-metal",
+    "description": "A non-metal",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●● (6)"
 },
 
@@ -486,7 +486,7 @@
     "discoveryDate": "1826",
     "discoverer": "Antoine-Jérôme Balard in Montpellier, France and Carl Löwig in Heidelberg, Germany",
     "stateAtroomTemperature": "A liquid",
-    "description":"A halogen",
+    "description": "A halogen",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●● (7)"
 },
 
@@ -500,7 +500,7 @@
     "discoveryDate": "1898",
     "discoverer": "Sir William Ramsay and Morris Travers",
     "stateAtroomTemperature": "A gas",
-    "description":"A noble gas",
+    "description": "A noble gas",
     "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8)"
 },
 
@@ -514,7 +514,8 @@
     "discoveryDate": "1861",
     "discoverer": "Gustav Kirchhoff and Robert Bunsen",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal"
+    "description": "An alkali metal",
+    "electronConfig": "(37): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8), Shell 5: ● (1)"
 },
 
 {
@@ -527,7 +528,8 @@
     "discoveryDate": "1790",
     "discoverer": "Adair Crawford",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkaline earth metal"
+    "description": "An alkaline earth metal",
+    "electronConfig": "(38): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8), Shell 5: ●● (2)"
 },
 
 {
@@ -540,7 +542,8 @@
     "discoveryDate": "1794",
     "discoverer": "Johan Gadolin",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●● (9), Shell 5: ●● (2)"
 },
 
 {
@@ -553,7 +556,8 @@
     "discoveryDate": "1789",
     "discoverer": "Martin Heinrich Klaproth",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●● (10), Shell 5: ●● (2)"
 },
 
 {
@@ -566,7 +570,8 @@
     "discoveryDate": "1801",
     "discoverer": "Charles Hatchet",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●● (12), Shell 5: ● (1)"
 },
 
 {
@@ -579,7 +584,8 @@
     "discoveryDate": "1781",
     "discoverer": "Peter Jacob Hjelm",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●● (13), Shell 5: ● (1)"
 },
 
 {
@@ -592,7 +598,8 @@
     "discoveryDate": "1937",
     "discoverer": "Carlo Perrier and Emilio Segrè",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●● (13), Shell 5: ●● (2)"
 },
 
 {
@@ -605,7 +612,8 @@
     "discoveryDate": "1844",
     "discoverer": "Karl Karlovich Klaus",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●● (13), Shell 5: ●● (2)"
 },
 
 {
@@ -618,7 +626,8 @@
     "discoveryDate": "1803",
     "discoverer": "William Hyde Wollaston",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●● (16), Shell 5: ● (1)"
 },
 
 {
@@ -631,7 +640,8 @@
     "discoveryDate": "1803",
     "discoverer": "William Hyde Wollaston",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: (0)"
 },
 
 {
@@ -644,7 +654,8 @@
     "discoveryDate": "3000BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ● (1)"
 },
 
 {
@@ -657,7 +668,8 @@
     "discoveryDate": "1817",
     "discoverer": "Friedrich Stromeyer",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●● (2)"
 },
 
 {
@@ -670,7 +682,8 @@
     "discoveryDate": "1863",
     "discoverer": "Ferdinand Reich and Hieronymous Richter",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●● (3)"
 },
 
 {
@@ -683,7 +696,8 @@
     "discoveryDate": "2100BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●● (4)"
 },
 
 {
@@ -696,7 +710,8 @@
     "discoveryDate": "1600BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid"
+    "description": "A metalloid",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●● (5)"
 },
 
 {
@@ -709,7 +724,8 @@
     "discoveryDate": "1783",
     "discoverer": "Franz-Joseph Müller von Reichenstein",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid"
+    "description": "A metalloid",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●● (6)"
 },
 
 {
@@ -722,7 +738,8 @@
     "discoveryDate": "1811",
     "discoverer": "Bernard Courtois",
     "stateAtroomTemperature": "A solid",
-    "description":"A halogen"
+    "description": "A halogen",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●● (7)"
 },
 
 {
@@ -735,7 +752,8 @@
     "discoveryDate": "1898",
     "discoverer": "Sir William Ramsay and Morris Travers",
     "stateAtroomTemperature": "A gas",
-    "description":"A noble gas"
+    "description": "A noble gas",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●● (8)"
 },
 
 {
@@ -748,7 +766,7 @@
     "discoveryDate": "1860",
     "discoverer": "Gustav Kirchhoff and Robert Bunsen",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal"
+    "description": "An alkali metal"
 },
 
 {
@@ -761,7 +779,7 @@
     "discoveryDate": "1808",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali earth metal"
+    "description": "An alkali earth metal"
 },
 
 {
@@ -774,7 +792,7 @@
     "discoveryDate": "1839",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -787,7 +805,7 @@
     "discoveryDate": "1803",
     "discoverer": "Jön Jacob Berzelius and Wilhelm Hisinger",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -800,7 +818,7 @@
     "discoveryDate": "1885",
     "discoverer": "Carl Auer von Welsbach",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -813,7 +831,7 @@
     "discoveryDate": "1885",
     "discoverer": "Carl Auer von Welsbach",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -826,7 +844,7 @@
     "discoveryDate": "1945",
     "discoverer": "Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -839,7 +857,7 @@
     "discoveryDate": "1879",
     "discoverer": "Paul-Émile Lecoq de Boisbaudran",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -852,7 +870,7 @@
     "discoveryDate": "1901",
     "discoverer": "Eugène-Anatole Demarçay",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -865,7 +883,7 @@
     "discoveryDate": "1880",
     "discoverer": "Jean Charles Galissard de Marignac",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -878,7 +896,7 @@
     "discoveryDate": "1843",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -891,7 +909,7 @@
     "discoveryDate": "1886",
     "discoverer": "Paul-Émile Lecoq de Boisbaudran",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -904,7 +922,7 @@
     "discoveryDate": "1878",
     "discoverer": "Per Teodor Cleve at Uppsala, Sweden. Independently by Marc Delafontaine and Louis Soret in Geneva, Switzerland",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -917,7 +935,7 @@
     "discoveryDate": "1843",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -930,7 +948,7 @@
     "discoveryDate": "1879",
     "discoverer": "Per Teodor Cleve",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -943,7 +961,7 @@
     "discoveryDate": "1878",
     "discoverer": "Jean Charles Galissard de Marignac",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -956,7 +974,7 @@
     "discoveryDate": "1907",
     "discoverer": "Georges Urbain in Paris, France. Independently by Charles James in New Hampshire, USA",
     "stateAtroomTemperature": "A solid",
-    "description":"A lanthanide"
+    "description": "A lanthanide"
 },
 
 {
@@ -969,7 +987,7 @@
     "discoveryDate": "1923",
     "discoverer": "George Charles de Hevesy and Dirk Coster",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -982,7 +1000,7 @@
     "discoveryDate": "1802",
     "discoverer": "Anders Gustav Ekeberg",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -995,7 +1013,7 @@
     "discoveryDate": "1783",
     "discoverer": "Juan and Fausto Elhuyar",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1008,7 +1026,7 @@
     "discoveryDate": "1925",
     "discoverer": "Walter Noddack, Ida Tacke and Otto Berg",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1021,7 +1039,7 @@
     "discoveryDate": "1803",
     "discoverer": "Smithson Tennant",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1034,7 +1052,7 @@
     "discoveryDate": "1803",
     "discoverer": "Smithson Tennant",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
   
 {
@@ -1047,7 +1065,7 @@
     "discoveryDate": "1750 (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1060,7 +1078,7 @@
     "discoveryDate": "3000BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1073,7 +1091,7 @@
     "discoveryDate": "1500BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A liquid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1086,7 +1104,7 @@
     "discoveryDate": "1861",
     "discoverer": "William Crookes",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1099,7 +1117,7 @@
     "discoveryDate": "Primitive",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1112,7 +1130,7 @@
     "discoveryDate": "1500 (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1125,7 +1143,7 @@
     "discoveryDate": "1898",
     "discoverer": "Marie Curie",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1138,7 +1156,7 @@
     "discoveryDate": "1940",
     "discoverer": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Serge",
     "stateAtroomTemperature": "A solid",
-    "description":"A halogen"
+    "description": "A halogen"
 },
 
 {
@@ -1151,7 +1169,7 @@
     "discoveryDate": "1900",
     "discoverer": "Friedrich Ernst Dorn",
     "stateAtroomTemperature": "A gas",
-    "description":"A noble gas"
+    "description": "A noble gas"
 },
 
 {
@@ -1164,7 +1182,7 @@
     "discoveryDate": "1939",
     "discoverer": "Marguerite Perey",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal"
+    "description": "An alkali metal"
 },
 
 {
@@ -1177,7 +1195,7 @@
     "discoveryDate": "1898",
     "discoverer": "Pierre and Marie Curie",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkaline earth metal"
+    "description": "An alkaline earth metal"
 },
 
 {
@@ -1190,7 +1208,7 @@
     "discoveryDate": "1899",
     "discoverer": "Andrew Debierne",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1203,7 +1221,7 @@
     "discoveryDate": "1829",
     "discoverer": "Jöns Jacob Berzelius",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1216,7 +1234,7 @@
     "discoveryDate": "1913",
     "discoverer": "Kasimir Fajans and Otto Göhring",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1229,7 +1247,7 @@
     "discoveryDate": "1789",
     "discoverer": "Martin Heinrich Klaproth",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1242,7 +1260,7 @@
     "discoveryDate": "1940",
     "discoverer": "Edwin McMillan and Phillip Abelson",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1255,7 +1273,7 @@
     "discoveryDate": "1940",
     "discoverer": "Glenn Seaborg and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1268,7 +1286,7 @@
     "discoveryDate": "1944",
     "discoverer": "Glenn Seaborg and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1281,7 +1299,7 @@
     "discoveryDate": "1944",
     "discoverer": "Glenn Seaborg and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1294,7 +1312,7 @@
     "discoveryDate": "1949",
     "discoverer": "Stanley Thompson, Albert Ghiorso and Glenn Seaborg",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1307,7 +1325,7 @@
     "discoveryDate": "1950",
     "discoverer": "Stanley Thompson, Kenneth Street, Jr., Albert Ghiorso and Glenn Seaborg",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1320,7 +1338,7 @@
     "discoveryDate": "1952",
     "discoverer": "Albert Ghiorso and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1333,7 +1351,7 @@
     "discoveryDate": "1953",
     "discoverer": "Albert Ghiorso and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1346,7 +1364,7 @@
     "discoveryDate": "1955",
     "discoverer": "Albert Ghiorso and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1359,7 +1377,7 @@
     "discoveryDate": "1963",
     "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1372,7 +1390,7 @@
     "discoveryDate": "1965",
     "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
     "stateAtroomTemperature": "A solid",
-    "description":"An actinide"
+    "description": "An actinide"
 },
 
 {
@@ -1385,7 +1403,7 @@
     "discoveryDate": "1964",
     "discoverer": "Georgy Flerov and colleagues and at Dubna near Moscow. Independently by Albert Ghiorso and colleagues at Berkeley, California",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1398,7 +1416,7 @@
     "discoveryDate": "1968-1970",
     "discoverer": "Scientists at Berkeley, California and Dubna in Russia",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1411,7 +1429,7 @@
     "discoveryDate": "1974",
     "discoverer": "Albert Ghiorso and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1424,7 +1442,7 @@
     "discoveryDate": "1981",
     "discoverer": "Peter Armbruster, Gottfried Münzenberg and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1437,7 +1455,7 @@
     "discoveryDate": "1984",
     "discoverer": "Peter Armbruster, Gottfried Münzenberg",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1450,7 +1468,7 @@
     "discoveryDate": "1982",
     "discoverer": "Peter Armbruster, Gottfried Münzenburg and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1463,7 +1481,7 @@
     "discoveryDate": "1994",
     "discoverer": "Sigurd Hofmann, Peter Armbruster and Gottfried Münzenberg",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1476,7 +1494,7 @@
     "discoveryDate": "1994",
     "discoverer": "Peter Armbruster and Gottfried Münzenberg",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1489,7 +1507,7 @@
     "discoveryDate": "1996",
     "discoverer": "Sigurd Hofmann and colleagues",
     "stateAtroomTemperature": "A solid",
-    "description":"A transition metal"
+    "description": "A transition metal"
 },
 
 {
@@ -1502,7 +1520,7 @@
     "discoveryDate": "2004",
     "discoverer": "Scientists from RIKEN",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1515,7 +1533,7 @@
     "discoveryDate": "1999",
     "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1528,7 +1546,7 @@
     "discoveryDate": "1999",
     "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
 
 {
@@ -1541,7 +1559,7 @@
     "discoveryDate": "2000",
     "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description": "A post-transition metal"
 },
   
 {
@@ -1554,7 +1572,7 @@
     "discoveryDate": "2010",
     "discoverer": "Scientists at Dubna, Russia, the Lawrence Livermore National Laboratory, California, U.S.A. and Oak Ridge National Laboratory, Tennessee, U.S.A.",
     "stateAtroomTemperature": "A solid",
-    "description":"A halogen"
+    "description": "A halogen"
 },
 
 {
@@ -1567,6 +1585,6 @@
     "discoveryDate": "2006",
     "discoverer": "Scientists at Dubna, Russia and the Lawrence Livermore National Laboratory, California, U.S.A.",
     "stateAtroomTemperature": "A solid",
-    "description":"A noble gas"
+    "description": "A noble gas"
 }
 ]

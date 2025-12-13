@@ -99,5 +99,50 @@ Quick lookup for electron shell configurations.
 
 **Krypton (36):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8)
 ```
+## git add .
+## git commit -m "Added electron configurations for elements 19-36"
+## git push
+
+## Period 5 (Elements 37-54)
+
+**Rubidium (37):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8), Shell 5: ● (1)
+
+**Strontium (38):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●● (8), Shell 5: ●● (2)
+
+**Yttrium (39):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●● (9), Shell 5: ●● (2)
+
+**Zirconium (40):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●● (10), Shell 5: ●● (2)
+
+**Niobium (41):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●● (12), Shell 5: ● (1)
+
+**Molybdenum (42):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●● (13), Shell 5: ● (1)
+
+**Technetium (43):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●● (13), Shell 5: ●● (2)
+
+**Ruthenium (44):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●● (13), Shell 5: ●● (2)
+
+**Rhodium (45):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●● (16), Shell 5: ● (1)
+
+**Palladium (46):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: (0)
+
+**Silver (47):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ● (1)
+
+**Cadmium (48):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●● (2)
+
+**Indium (49):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●● (3)
+
+**Tin (50):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●● (4)
+
+**Antimony (51):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●● (5)
+
+**Tellurium (52):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●● (6)
+
+**Iodine (53):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●● (7)
+
+**Xenon (54):** Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●● (8)
+
+## git add .
+## git commit -m "Added electron configurations for elements 37-54"
+## git push
 
 **Paste these in, save, then you can copy them into the JSON!** 🚀
