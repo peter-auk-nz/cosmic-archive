@@ -149,7 +149,8 @@
     "discoveryDate": "1807",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description":"An alkali metal"
+    "description":"An alkali metal",
+    "electronConfig": "Sodium (11): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ● (1)"
   },
 
   {
@@ -162,7 +163,8 @@
     "discoveryDate": "1755",
     "discoverer": "Joseph Black",
     "stateAtroomTemperature": "A solid",
-    "description":" An alkaline earth metal"
+    "description":" An alkaline earth metal",
+    "electronConfig": "Magnesium (12): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●● (2)"
   },
 
   {
@@ -175,7 +177,8 @@
     "discoveryDate": "1825",
     "discoverer": "Hans Oersted",
     "stateAtroomTemperature": "A solid",
-    "description":"A post-transition metal"
+    "description":"A post-transition metal",
+    "electronConfig": "Aluminum (13): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●● (3)"
   },
 
   {
@@ -188,7 +191,8 @@
     "discoveryDate": "1824",
     "discoverer": "Jön Jacob Berzelius",
     "stateAtroomTemperature": "A solid",
-    "description":"A metalloid"
+    "description":"A metalloid",
+    "electronConfig": "Silicon (14): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●● (4)"
   },
 
   {
@@ -201,7 +205,8 @@
     "discoveryDate": "1669",
     "discoverer": "Hennig Brandt",
     "stateAtroomTemperature": "A solid",
-    "description":"A non-metal"
+    "description":"A non-metal",
+    "electronConfig": "Phosphorus (15): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●● (5)"
   },
 
   {
@@ -214,7 +219,8 @@
     "discoveryDate": "Prehistoric",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description":"A non-metal"
+    "description":"A non-metal",
+    "electronConfig": "Sulfur (16): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●● (6)"
   },
 
   {
@@ -227,7 +233,8 @@
     "discoveryDate": "1774",
     "discoverer": "Carl Wilhelm Scheele",
     "stateAtroomTemperature": "A gas",
-    "description":"A halogen"
+    "description":"A halogen",
+    "electronConfig": "Chlorine (17): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●● (7)"
   },
 
   {
@@ -240,7 +247,8 @@
     "discoveryDate": "1894",
     "discoverer": "Lord Rayleigh and Sir William Ramsey",
     "stateAtroomTemperature": "A gas",
-    "description":"A noble gas"
+    "description":"A noble gas",
+    "electronConfig": "Argon (18): Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●● (8)"
   },
 
   {
