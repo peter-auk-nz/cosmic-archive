@@ -766,7 +766,8 @@
     "discoveryDate": "1860",
     "discoverer": "Gustav Kirchhoff and Robert Bunsen",
     "stateAtroomTemperature": "A solid",
-    "description": "An alkali metal"
+    "description": "An alkali metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●● (8), Shell 6: ● (1)"
 },
 
 {
@@ -779,7 +780,8 @@
     "discoveryDate": "1808",
     "discoverer": "Humphry Davy",
     "stateAtroomTemperature": "A solid",
-    "description": "An alkali earth metal"
+    "description": "An alkali earth metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -792,7 +794,8 @@
     "discoveryDate": "1839",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●●● (9), Shell 6: ●● (2)"
 },
 
 {
@@ -805,7 +808,8 @@
     "discoveryDate": "1803",
     "discoverer": "Jön Jacob Berzelius and Wilhelm Hisinger",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig" : "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●● (18), Shell 5: ●●●●●●●●●● (10), Shell 6: ●● (2)"
 },
 
 {
@@ -818,7 +822,8 @@
     "discoveryDate": "1885",
     "discoverer": "Carl Auer von Welsbach",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●● (19), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -831,7 +836,8 @@
     "discoveryDate": "1885",
     "discoverer": "Carl Auer von Welsbach",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●● (20), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -844,7 +850,8 @@
     "discoveryDate": "1945",
     "discoverer": "Jacob A. Marinsky, Lawrence E. Glendenin and Charles D. Coryell",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●● (21), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -857,7 +864,8 @@
     "discoveryDate": "1879",
     "discoverer": "Paul-Émile Lecoq de Boisbaudran",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●● (22), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -870,7 +878,8 @@
     "discoveryDate": "1901",
     "discoverer": "Eugène-Anatole Demarçay",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●● (23), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -883,7 +892,8 @@
     "discoveryDate": "1880",
     "discoverer": "Jean Charles Galissard de Marignac",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●● (24), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -896,7 +906,8 @@
     "discoveryDate": "1843",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●● (25), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -909,7 +920,8 @@
     "discoveryDate": "1886",
     "discoverer": "Paul-Émile Lecoq de Boisbaudran",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●● (26), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -922,7 +934,8 @@
     "discoveryDate": "1878",
     "discoverer": "Per Teodor Cleve at Uppsala, Sweden. Independently by Marc Delafontaine and Louis Soret in Geneva, Switzerland",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●● (27), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -935,7 +948,8 @@
     "discoveryDate": "1843",
     "discoverer": "Carl Gustav Mosander",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●● (28), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -948,7 +962,8 @@
     "discoveryDate": "1879",
     "discoverer": "Per Teodor Cleve",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (30), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -961,7 +976,8 @@
     "discoveryDate": "1878",
     "discoverer": "Jean Charles Galissard de Marignac",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (30), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -974,7 +990,8 @@
     "discoveryDate": "1907",
     "discoverer": "Georges Urbain in Paris, France. Independently by Charles James in New Hampshire, USA",
     "stateAtroomTemperature": "A solid",
-    "description": "A lanthanide"
+    "description": "A lanthanide",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (31), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -987,7 +1004,8 @@
     "discoveryDate": "1923",
     "discoverer": "George Charles de Hevesy and Dirk Coster",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●● (8), Shell 6: ●● (2)"
 },
 
 {
@@ -1000,7 +1018,8 @@
     "discoveryDate": "1802",
     "discoverer": "Anders Gustav Ekeberg",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●● (9), Shell 6: ●● (2)"
 },
 
 {
@@ -1013,7 +1032,8 @@
     "discoveryDate": "1783",
     "discoverer": "Juan and Fausto Elhuyar",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●● (10), Shell 6: ●● (2)"
 },
 
 {
@@ -1026,7 +1046,8 @@
     "discoveryDate": "1925",
     "discoverer": "Walter Noddack, Ida Tacke and Otto Berg",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●● (11), Shell 6: ●● (2)"
 },
 
 {
@@ -1039,7 +1060,8 @@
     "discoveryDate": "1803",
     "discoverer": "Smithson Tennant",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●● (12), Shell 6: ●● (2)"
 },
 
 {
@@ -1052,7 +1074,9 @@
     "discoveryDate": "1803",
     "discoverer": "Smithson Tennant",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●● (13), Shell 6: ●● (2)"
+
 },
   
 {
@@ -1065,7 +1089,8 @@
     "discoveryDate": "1750 (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●● (14), Shell 6: ●● (2)"
 },
 
 {
@@ -1078,7 +1103,8 @@
     "discoveryDate": "3000BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●● (15), Shell 6: ●● (2)"
 },
 
 {
@@ -1091,7 +1117,8 @@
     "discoveryDate": "1500BC (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A liquid",
-    "description": "A transition metal"
+    "description": "A transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●● (16), Shell 6: ●● (2)"
 },
 
 {
@@ -1104,7 +1131,8 @@
     "discoveryDate": "1861",
     "discoverer": "William Crookes",
     "stateAtroomTemperature": "A solid",
-    "description": "A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●● (3)"
 },
 
 {
@@ -1117,7 +1145,8 @@
     "discoveryDate": "Primitive",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description": "A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●●● (4)"
 },
 
 {
@@ -1130,7 +1159,8 @@
     "discoveryDate": "1500 (approximately)",
     "discoverer": "Unknown",
     "stateAtroomTemperature": "A solid",
-    "description": "A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●●●● (5)"
 },
 
 {
@@ -1143,7 +1173,8 @@
     "discoveryDate": "1898",
     "discoverer": "Marie Curie",
     "stateAtroomTemperature": "A solid",
-    "description": "A post-transition metal"
+    "description": "A post-transition metal",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●●●●● (6)"
 },
 
 {
@@ -1156,7 +1187,8 @@
     "discoveryDate": "1940",
     "discoverer": "Dale R. Corson, Kenneth Ross MacKenzie, Emilio Serge",
     "stateAtroomTemperature": "A solid",
-    "description": "A halogen"
+    "description": "A halogen",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●●●●●● (7)"
 },
 
 {
@@ -1169,7 +1201,8 @@
     "discoveryDate": "1900",
     "discoverer": "Friedrich Ernst Dorn",
     "stateAtroomTemperature": "A gas",
-    "description": "A noble gas"
+    "description": "A noble gas",
+    "electronConfig": "Shell 1: ●● (2), Shell 2: ●●●●●●●● (8), Shell 3: ●●●●●●●●●●●●●●●●●● (18), Shell 4: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●● (32), Shell 5: ●●●●●●●●●●●●●●●●●●● (18), Shell 6: ●●●●●●●● (8)"
 },
 
 {
