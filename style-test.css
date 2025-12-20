@@ -31,3 +31,135 @@ span {
   color: #ffffff;
   font-weight: 400;
 }
+
+/* Index page specific styles */
+main {
+  padding: 2rem 0;
+}
+
+.period {
+  margin-bottom: 3rem;
+}
+
+.period h2 {
+  color: #16f4d0;
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #16f4d0;
+}
+
+.element-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.element-list a {
+  background-color: #2a2a3e;
+  color: #16f4d0;
+  text-decoration: none;
+  padding: 1rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  text-align: center;
+  font-weight: 500;
+}
+
+.element-list a:hover {
+  background-color: #16f4d0;
+  color: #1a1a2e;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(22, 244, 208, 0.3);
+}
+
+.element-list a:visited {
+  color: #16f4d0;
+}
+
+.element-list a:visited:hover {
+  background-color: #16f4d0;
+  color: #1a1a2e;
+}
+
+/* Element pages specific styles */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #d0d0d0;
+}
+
+.quick-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    list-style: none;
+    padding: 20px;
+    margin: 20px 0;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.groups-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 40px;
+    margin-top: 40px;
+    grid-auto-flow: dense;  
+}
+
+.group-section {
+    break-inside: avoid;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.group-section ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+    list-style: none;
+}
+
+.group-section li {
+    flex: 0 0 auto;
+}
+
+.group-section li::before {
+    content: "• ";
+    margin-right: 5px;
+}
+
+.group-section:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0, 0.15);
+}
+
+h1 {
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #0044aa;
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 15px;
+    }
+  }
