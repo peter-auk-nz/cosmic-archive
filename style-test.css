@@ -18,7 +18,7 @@ body {
 p {
   margin: 1rem 0;
   display: grid;
-  grid-template-columns: 200px 1fr;
+  grid-template-columns: 200px minmax(200px, 400px);
   gap: 2rem;
 }
 
@@ -158,9 +158,10 @@ a:hover {
     text-decoration: underline;
 }
 
-@media (max-width: 768px) 
-    
+@media (max-width: 768px) {
   .container {
-        padding: 15px;
-
+    padding: 15px;
+  }
 }
+
+
