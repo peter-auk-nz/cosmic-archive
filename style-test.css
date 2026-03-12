@@ -57,8 +57,8 @@ main {
 }
 
 .element-list a {
-  background-color: #2a2a3e;
-  color: #16f4d0;
+  background-color: #16f4d0;
+  color: #1a1a2e;
   text-decoration: none;
   padding: 1rem;
   border-radius: 8px;
@@ -164,4 +164,71 @@ a:hover {
   }
 }
 
+/* Period Colors */
+#period-1 a {
+    background-color: #E3F2FD; /* Light Blue */
+}
 
+#period-2 a {
+    background-color: #E8F5E9; /* Light Green */
+}
+
+#period-3 a {
+    background-color: #FFF9C4; /* Light Yellow */
+}
+
+#period-4 a {
+    background-color: #FFE0B2; /* Light Orange */
+}
+
+#period-5 a {
+    background-color: #F8BBD0; /* Light Pink */
+}
+
+#period-6 a {
+    background-color: #E1BEE7; /* Light Purple */
+}
+
+#period-7 a {
+    background-color: #FFCCBC; /* Light Coral */
+}
+
+/* Filter Buttons */
+.filter-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background-color: #2a2a3e;
+  border-radius: 8px;
+}
+
+.filter-btn {
+  padding: 0.6rem 1.2rem;
+  background-color: #1a1a2e;
+  color: #16f4d0;
+  border: 2px solid #16f4d0;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.filter-btn:hover {
+  background-color: #16f4d0;
+  color: #1a1a2e;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(22, 244, 208, 0.3);
+}
+
+.filter-btn.active {
+  background-color: #16f4d0;
+  color: #1a1a2e;
+}
+
+/* Hidden class for filters */
+.hidden {
+  display: none;
+}
