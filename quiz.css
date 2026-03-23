@@ -1,0 +1,132 @@
+/* ===================================
+   QUIZ PAGE STYLES
+   =================================== */
+
+.quiz-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.score-display {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background: #f0f0f0;
+    border-radius: 5px;
+}
+
+.score-display p {
+    margin: 0;
+    font-weight: 600;
+}
+
+.question-container {
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.question-container h2 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.options-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.option-btn {
+    padding: 1.5rem;
+    font-size: 1.1rem;
+    background: #f8f8f8;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.option-btn:hover {
+    background: #e8e8e8;
+    transform: translateY(-2px);
+}
+
+.option-btn.correct {
+    background: #4CAF50;
+    color: white;
+    border-color: #45a049;
+}
+
+.option-btn.incorrect {
+    background: #f44336;
+    color: white;
+    border-color: #da190b;
+}
+
+.option-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.7;
+}
+
+.feedback {
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.feedback.correct {
+    background: #d4edda;
+    color: #155724;
+}
+
+.feedback.incorrect {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.hidden {
+    display: none;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#next-btn, #restart-btn {
+    padding: 1rem 2rem;
+    font-size: 1.1rem;
+    background: #333;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 0.5rem;
+}
+
+#next-btn:hover, #restart-btn:hover {
+    background: #555;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    color: #333;
+    text-decoration: none;
+    border: 1px solid #333;
+    border-radius: 5px;
+}
+
+.back-link:hover {
+    background: #333;
+    color: white;
+}

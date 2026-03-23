@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Element Quiz - Cosmic Archive</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <main>
+        <h1>🧪 Element Quiz</h1>
+        
+        <div class="quiz-container">
+            <!-- Score Display -->
+            <div class="score-display">
+                <p>Score: <span id="score">0</span> / <span id="total">10</span></p>
+                <p>Question: <span id="current-question">1</span> / 10</p>
+            </div>
+            
+            <!-- Question Display -->
+            <div class="question-container">
+                <h2 id="question">Loading question...</h2>
+            </div>
+            
+            <!-- Answer Options -->
+            <div class="options-container">
+                <button class="option-btn" data-option="0">Option 1</button>
+                <button class="option-btn" data-option="1">Option 2</button>
+                <button class="option-btn" data-option="2">Option 3</button>
+                <button class="option-btn" data-option="3">Option 4</button>
+            </div>
+            
+            <!-- Feedback -->
+            <div id="feedback" class="feedback hidden"></div>
+            
+            <!-- Next/Restart Buttons -->
+            <div class="button-container">
+                <button id="next-btn" class="hidden">Next Question</button>
+                <button id="restart-btn" class="hidden">Play Again</button>
+                <a href="index.html" class="back-link">← Back to Elements</a>
+            </div>
+        </div>
+    </main>
+    
+    <script src="quiz.js"></script>
+</body>
+</html>
