@@ -262,3 +262,33 @@ a:hover {
 #search-button:hover {
     background-color: #555;
 }
+
+h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+/* Quiz Link Styling */
+.quiz-link-container {
+    text-align: center;
+    margin: 2rem 0;
+    max-width: 790px;
+}
+
+.quiz-link {
+    display: inline-block;
+    padding: 1rem 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: transform 0.3s, box-shadow 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-link:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}

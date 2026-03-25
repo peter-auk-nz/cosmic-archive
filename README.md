@@ -15,7 +15,7 @@ A data driven periodic table website featuring all 118 elements.
 - ✅ Added period colors and filter buttons - 2026-03-12 🎨
 - ✅ Added element search feature with highlight and scroll - 2026-03-22 🔍
 - ✅ Added element quiz feature with HTML, CSS and JavaScript - 2026-03-23 🧩
-
+- ✅ Added heading and quiz link to main page - 2026-03-25 🔗
 ## Live Site
 Visit the live site
 https://peter-auk-nz.github.io/cosmic-archive/
