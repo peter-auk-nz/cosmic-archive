@@ -40,14 +40,17 @@ fetch('elements-data.json')
   const viewPageButton = document.getElementById('popup-view-page');
   
   // Fill in element info
-  popupName.textContent = `${element.name} (${element.symbol})`;
-  popupInfo.textContent = `Atomic Number: ${element.atomicNumber}`;
+  popupName.textContent = `${element.name} (${element.symbol})`; 
+  popupInfo.innerHTML = `Atomic Number: ${element.atomicNumber}<br>
+  Atomic Weight: ${element.atomicWeight}<br>
+  Discovered: ${element.discoveryDate}`;
   
  // Set the "View Full Page" button link
   viewPageButton.href = `element-${element.atomicNumber}.html`;
 
   // Show popup
   popup.classList.remove('popup-hidden');
+  document.getElementById('popup-overlay').classList.remove('popup-hidden');
   });
 
   container.appendChild(link);
@@ -128,6 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
   if (closeButton) {
     closeButton.addEventListener('click', function() {
       popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
     });
   }
   
@@ -135,6 +139,18 @@ document.addEventListener('DOMContentLoaded', function() {
   popup.addEventListener('click', function(event) {
     if (event.target === popup) {
       popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
     }
   });
+});
+
+// Close popup with ESC key
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape' || event.key === 'Esc') {
+    const popup = document.getElementById('element-popup');
+    if (!popup.classList.contains('popup-hidden')) {
+      popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
+    }
+  }
 });

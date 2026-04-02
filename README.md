@@ -8,10 +8,15 @@ This is an **experimental copy** of the Cosmic Archive project for safe testing 
 
 ## Current Features Being Tested:
 
-✅ Interactive element popup (click any element to preview)  
+✅ Interactive element popup (click any element to preview)
+✅ Element information display
+    - Atomic number
+    - Atomic weight
+    - Discovey date 
 ✅ "View Full Page" button in popup  
 ✅ Quick element information display  
-✅ Close popup by clicking X or clicking outside  
+✅ Close popup by clicking X, clicking outside, or Esc key
+✅ Background blur effect when popup is open
 
 ## Status:
 
