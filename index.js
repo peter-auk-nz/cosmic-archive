@@ -23,16 +23,41 @@ fetch('elements-data.json')
         el.atomicNumber >= period.range[0] && 
         el.atomicNumber <= period.range[1]
       );
-      
+
       // Create a link for each element
       periodElements.forEach(element => {
         const link = document.createElement('a');
         link.href = `element-${element.atomicNumber}.html`;
         link.textContent = `${element.atomicNumber} - ${element.name} (${element.symbol})`;
-        container.appendChild(link);
+      
+ link.addEventListener('click', function(event) {
+    event.preventDefault(); // Stop it from going to the page
+ 
+  // Get popup elements
+  const popup = document.getElementById('element-popup');
+  const popupName = document.getElementById('popup-element-name');
+  const popupInfo = document.getElementById('popup-element-info');
+  const viewPageButton = document.getElementById('popup-view-page');
+  
+  // Fill in element info
+  popupName.textContent = `${element.name} (${element.symbol})`; 
+  popupInfo.innerHTML = `Atomic Number: ${element.atomicNumber}<br>
+  Atomic Weight: ${element.atomicWeight}<br>
+  Discovered: ${element.discoveryDate}`;
+  
+ // Set the "View Full Page" button link
+  viewPageButton.href = `element-${element.atomicNumber}.html`;
+
+  // Show popup
+  popup.classList.remove('popup-hidden');
+  document.getElementById('popup-overlay').classList.remove('popup-hidden');
+  });
+
+  container.appendChild(link);
       });
     });
   });
+    
 
 // ===================================
 // ELEMENT SEARCH FUNCTIONALITY
@@ -97,4 +122,36 @@ searchInput.addEventListener('keypress', function(e) {
     if (e.key === 'Enter') {
         searchButton.click();
     }
+});
+
+// Close popup when X is clicked
+document.addEventListener('DOMContentLoaded', function() {
+  const closeButton = document.querySelector('.close-button');
+  const popup = document.getElementById('element-popup');
+  
+  if (closeButton) {
+    closeButton.addEventListener('click', function() {
+      popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
+    });
+  }
+  
+  // Close popup when clicking outside
+  popup.addEventListener('click', function(event) {
+    if (event.target === popup) {
+      popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
+    }
+  });
+});
+
+// Close popup with ESC key
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape' || event.key === 'Esc') {
+    const popup = document.getElementById('element-popup');
+    if (!popup.classList.contains('popup-hidden')) {
+      popup.classList.add('popup-hidden');
+       document.getElementById('popup-overlay').classList.add('popup-hidden');
+    }
+  }
 });
