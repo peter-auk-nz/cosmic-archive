@@ -1,22 +1,35 @@
-# Cosmic Archive
+# Cosmic Archive - Sandbox 🏖️
 
-A data driven periodic table website featuring all 118 elements.
+## What is this?
 
-## Features
-- JSON-base element data
-- JavaScript template system
-- Indivdual pages for each element
+This is an **experimental copy** of the Cosmic Archive project for safe testing and development.
 
-## Project Status
-- ✅ All 118 elements migrated to JSON
-- ✅ ASCII electron configuration diagrams - Completed 2025-12-19
-- ✅ Index page with grid layout and styling - Completed 2025-12-20
-- ✅ Deployed to Github pages - 2026-02-25 🌐
-- ✅ Added period colors and filter buttons - 2026-03-12 🎨
-- ✅ Added element search feature with highlight and scroll - 2026-03-22 🔍
-- ✅ Added element quiz feature with HTML, CSS and JavaScript - 2026-03-23 🧩
-- ✅ Added heading and quiz link to main page - 2026-03-25 🔗
-## Live Site
-Visit the live site
-https://peter-auk-nz.github.io/cosmic-archive/
-Deployed: Feburary 25, 2026
+🚧 **This is NOT the live site!** 🚧
+
+## Current Features Being Tested:
+
+✅ Interactive element popup (click any element to preview)
+✅ Element information display
+    - Atomic number
+    - Atomic weight
+    - Discovey date 
+✅ "View Full Page" button in popup  
+✅ Quick element information display  
+✅ Close popup by clicking X, clicking outside, or Esc key
+✅ Background blur effect when popup is open
+
+## Status:
+
+🔬 Work in Progress - Features are being tested before deployment to live site
+
+## Original Project:
+
+The live version is in the `cosmic-archive` folder.
+
+## Deployment Plan:
+
+When all popup features are complete and tested, they will be deployed to the live site as a complete package.
+
+---
+
+*Made with 💙 by Atom Peter and Atom Claude* ⚛️

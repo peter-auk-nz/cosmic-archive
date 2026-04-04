@@ -22,15 +22,25 @@ fetch('elements-data.json')
       const periodElements = elements.filter(el => 
         el.atomicNumber >= period.range[0] && 
         el.atomicNumber <= period.range[1]
+<<<<<<< HEAD
       );
 
+=======
+    );
+      
+>>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
       // Create a link for each element
       periodElements.forEach(element => {
         const link = document.createElement('a');
         link.href = `element-${element.atomicNumber}.html`;
         link.textContent = `${element.atomicNumber} - ${element.name} (${element.symbol})`;
+<<<<<<< HEAD
       
  link.addEventListener('click', function(event) {
+=======
+        
+  link.addEventListener('click', function(event) {
+>>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
     event.preventDefault(); // Stop it from going to the page
  
   // Get popup elements
@@ -114,7 +124,7 @@ searchButton.addEventListener('click', function() {
     }
     
     // Clear the search box
-    searchInput.value = '';
+    searchInput.value = ''; 
 });
 
 // Also allow pressing Enter to search
@@ -154,4 +164,8 @@ document.addEventListener('keydown', function(event) {
        document.getElementById('popup-overlay').classList.add('popup-hidden');
     }
   }
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
