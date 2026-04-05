@@ -321,11 +321,7 @@ h1 {
   width: 90%;
   color: #2c3e50;
   z-index: 1001;
-<<<<<<< HEAD
   animation: fadeIn 1.0s ease-in-out;
-=======
-  animation: fadeIn 5.0s ease-in-out;
->>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
 }
 
 #popup-element-name {
@@ -348,11 +344,7 @@ h1 {
   color: #000;
 }
 
-<<<<<<< HEAD
 .view-page-button { /*Selector Specificity: 0, 1, 0 */
-=======
-.view-page-button {
->>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
   display: inline-block;
   margin-top: 25px;
   padding: 12px 30px;
@@ -365,11 +357,7 @@ h1 {
   box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
 }
 
-<<<<<<< HEAD
 .view-page-button:hover { /*Selector Specificity: 0, 2, 0 */
-=======
-.view-page-button:hover {
->>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
   background: linear-gradient(135deg, #2980b9 0%, #3498db 100%);
   transform: translateY(-2px);
   box-shadow: 0 4px 15px rgba(52, 152, 219, 0.4);
@@ -385,11 +373,7 @@ h1 {
   }
 }
 
-<<<<<<< HEAD
 .popup-overlay { /*Selector Specificity: 0, 1, 0 */ 
-=======
-.popup-overlay {
->>>>>>> be235e129c7da3df61f73b8c2428e391ba366c8e
   position: fixed;
   top: 0;
   left: 0;
