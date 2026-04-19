@@ -22,15 +22,15 @@ fetch('elements-data.json')
       const periodElements = elements.filter(el => 
         el.atomicNumber >= period.range[0] && 
         el.atomicNumber <= period.range[1]
-    );
-      
+      );
+
       // Create a link for each element
       periodElements.forEach(element => {
         const link = document.createElement('a');
         link.href = `element-${element.atomicNumber}.html`;
         link.textContent = `${element.atomicNumber} - ${element.name} (${element.symbol})`;
-        
-  link.addEventListener('click', function(event) {
+      
+ link.addEventListener('click', function(event) {
     event.preventDefault(); // Stop it from going to the page
  
   // Get popup elements
@@ -57,6 +57,7 @@ fetch('elements-data.json')
       });
     });
   });
+    
 
 // ===================================
 // ELEMENT SEARCH FUNCTIONALITY

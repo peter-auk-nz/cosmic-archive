@@ -321,7 +321,7 @@ h1 {
   width: 90%;
   color: #2c3e50;
   z-index: 1001;
-  animation: fadeIn 5.0s ease-in-out;
+  animation: fadeIn 1.0s ease-in-out;
 }
 
 #popup-element-name {
@@ -382,4 +382,72 @@ h1 {
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(8px);
   z-index: 999;
+}
+
+/* Interactive Periodic Table Feature Link */
+.periodic-table-feature {
+  margin: 40px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.periodic-table-feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+.periodic-table-feature a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 15px 30px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.periodic-table-feature a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
+}
+
+/* Element Comparison Feature Link */
+.comparison-feature {
+  margin: 40px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.comparison-feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+.comparison-feature a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 15px 30px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.comparison-feature a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
 }
