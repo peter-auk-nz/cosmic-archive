@@ -18,7 +18,8 @@ A data driven periodic table website featuring all 118 elements.
 ✅ Added element search feature with highlight and scroll - 2026-03-22 🔍
 ✅ Added element quiz feature with HTML, CSS and JavaScript - 2026-03-23 🧩
 ✅ Added heading and quiz link to main page - 2026-03-25 🔗
-✅ Added interactive element opoup feature - 2026-05-05
+✅ Added interactive element popoup feature - 2026-05-05
+✅ Added Atom Visualizer with Bohr models 1-36, data display for 37-118 - 2026-04-20
 
 ## Live Site
 Visit the live site https://peter-auk-nz.github.io/cosmic-archive/ Deployed: Feburary 25, 2026
