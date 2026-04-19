@@ -1,87 +1,125 @@
-// Atom Visualizer JavaScript
-// Phase 3: Drawing Real Atoms!
+// Atom Visualizer JavaScript - Phase 2: JSON Integration
+// Now loading from elements-data.json for all 118 elements!
 
-// Get the canvas and its 2D drawing context
 const canvas = document.getElementById('atomCanvas');
 const ctx = canvas.getContext('2d');
 
-// Canvas center point
-const centerX = canvas.width / 2;  // 300
-const centerY = canvas.height / 2; // 300
+const centerX = canvas.width / 2;
+const centerY = canvas.height / 2;
 
-// SIMPLE ATOM DATA (we'll connect to JSON later!)
-// For now, just hydrogen as a test
+// Will store all element data
+let elementsData = {};
 
-    const simpleAtoms = {
-    1: { name: 'Hydrogen', symbol: 'H', electrons: 1, shells: [1] },
-    2: { name: 'Helium', symbol: 'He', electrons: 2, shells: [2] },
-    3: { name: 'Lithium', symbol: 'Li', electrons: 3, shells: [2, 1] },
-    4: { name: 'Beryllium', symbol: 'Be', electrons: 4, shells: [2, 2] },
-    5: { name: 'Boron', symbol: 'B', electrons: 5, shells: [2, 3] },
-    6: { name: 'Carbon', symbol: 'C', electrons: 6, shells: [2, 4] },
-    7: { name: 'Nitrogen', symbol: 'N', electrons: 7, shells: [2, 5] },
-    8: { name: 'Oxygen', symbol: 'O', electrons: 8, shells: [2, 6] },
-    9: { name: 'Fluorine', symbol: 'F', electrons: 9, shells: [2, 7] },
-    10: { name: 'Neon', symbol: 'Ne', electrons: 10, shells: [2, 8] },
-    11: { name: 'Sodium', symbol: 'Na', electrons: 11, shells: [2, 8, 1] },
-    12: { name: 'Magnesium', symbol: 'Mg', electrons: 12, shells: [2, 8, 2] },
-    13: { name: 'Aluminum', symbol: 'Al', electrons: 13, shells: [2, 8, 3] },
-    14: { name: 'Silicon', symbol: 'Si', electrons: 14, shells: [2, 8, 4] },
-    15: { name: 'Phosphorus', symbol: 'P', electrons: 15, shells: [2, 8, 5] },
-    16: { name: 'Sulfur', symbol: 'S', electrons: 16, shells: [2, 8, 6] },
-    17: { name: 'Chlorine', symbol: 'Cl', electrons: 17, shells: [2, 8, 7] },
-    18: { name: 'Argon', symbol: 'Ar', electrons: 18, shells: [2, 8, 8] },
-    19: { name: 'Potassium', symbol: 'K', electrons: 19, shells: [2, 8, 8, 1] },
-    20: { name: 'Calcium', symbol: 'Ca', electrons: 20, shells: [2, 8, 8, 2] }
-};
+// Function to parse electron configuration string
+function parseElectronConfig(configString) {
+    // Example: "Electron Configuration:Shell 1: ●● (2), Shell 2: ●●●●●●●● (8)"
+    // We want to extract: [2, 8]
     
+    const shells = [];
+    
+    // Find all numbers in parentheses
+    const matches = configString.match(/\((\d+)\)/g);
+    
+    if (matches) {
+        matches.forEach(match => {
+            // Extract number from parentheses
+            const num = parseInt(match.replace(/[()]/g, ''));
+            shells.push(num);
+        });
+    }
+    
+    return shells;
+}
 
+// Function to load JSON data
+async function loadElementsData() {
+    try {
+        const response = await fetch('elements-data.json');
+        const data = await response.json();
+        
+        // Process each element
+        data.forEach(element => {
+            const atomicNumber = element.atomicNumber;
+            const shells = parseElectronConfig(element.electronConfig);
+            
+            elementsData[atomicNumber] = {
+                name: element.name,
+                symbol: element.symbol,
+                atomicNumber: atomicNumber,
+                electrons: shells.reduce((sum, num) => sum + num, 0),
+                shells: shells
+            };
+        });
+        
+        console.log('Loaded', Object.keys(elementsData).length, 'elements! ⚛️');
+        
+        // Populate dropdown
+        populateDropdown();
+        
+        // Draw first element
+        drawAtom(1);
+        
+    } catch (error) {
+        console.error('Error loading elements data:', error);
+    }
+}
 
-// Function to draw the nucleus (center circle)
+// Function to populate dropdown with all elements
+function populateDropdown() {
+    const elementSelect = document.getElementById('elementSelect');
+    elementSelect.innerHTML = ''; // Clear existing
+    
+    // Add all elements
+    for (let i = 1; i <= 118; i++) {
+        if (elementsData[i]) {
+            const option = document.createElement('option');
+            option.value = i;
+            option.textContent = `${i} - ${elementsData[i].name} (${elementsData[i].symbol})`;
+            elementSelect.appendChild(option);
+        }
+    }
+}
+
+// Function to draw nucleus
 function drawNucleus() {
-    // Draw the nucleus
     ctx.beginPath();
     ctx.arc(centerX, centerY, 20, 0, Math.PI * 2);
-    ctx.fillStyle = '#FF6B6B';  // Red nucleus
+    ctx.fillStyle = '#FF6B6B';
     ctx.fill();
     ctx.strokeStyle = '#C92A2A';
     ctx.lineWidth = 2;
     ctx.stroke();
 }
 
-// Function to draw electron shells (circles around nucleus)
+// Function to draw electron shells
 function drawShells(numShells) {
-    const shellSpacing = 60;  // Distance between shells
+    const shellSpacing = 60;
     
     for (let i = 1; i <= numShells; i++) {
         ctx.beginPath();
         ctx.arc(centerX, centerY, shellSpacing * i, 0, Math.PI * 2);
-        ctx.strokeStyle = '#868E96';  // Gray shells
+        ctx.strokeStyle = '#868E96';
         ctx.lineWidth = 1;
         ctx.stroke();
     }
 }
 
-// Function to draw electrons on shells
+// Function to draw electrons
 function drawElectrons(shellConfig) {
     const shellSpacing = 60;
     
     shellConfig.forEach((electronsInShell, shellIndex) => {
         const shellRadius = shellSpacing * (shellIndex + 1);
-        
-        // Calculate angle between electrons on this shell
         const angleStep = (Math.PI * 2) / electronsInShell;
         
-        // Draw each electron
         for (let i = 0; i < electronsInShell; i++) {
             const angle = angleStep * i;
             const electronX = centerX + shellRadius * Math.cos(angle);
             const electronY = centerY + shellRadius * Math.sin(angle);
             
-            // Draw electron
             ctx.beginPath();
             ctx.arc(electronX, electronY, 8, 0, Math.PI * 2);
-            ctx.fillStyle = '#4DABF7';  // Blue electrons
+            ctx.fillStyle = '#4DABF7';
             ctx.fill();
             ctx.strokeStyle = '#1971C2';
             ctx.lineWidth = 2;
@@ -92,18 +130,29 @@ function drawElectrons(shellConfig) {
 
 // Function to draw complete atom
 function drawAtom(atomicNumber) {
-    // Clear canvas
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     
-    // Get atom data
-    const atom = simpleAtoms[atomicNumber];
+    const atom = elementsData[atomicNumber];
     
     if (!atom) {
-        // Show error message
         ctx.fillStyle = 'black';
         ctx.font = '20px Arial';
         ctx.textAlign = 'center';
         ctx.fillText('Element not available', centerX, centerY);
+        return;
+    }
+    
+    // Check if atom will fit on canvas
+    const maxShellRadius = atom.shells.length * 60;
+    if (maxShellRadius > 280) {
+        // Too big to draw - show message
+        ctx.fillStyle = 'black';
+        ctx.font = '20px Arial';
+        ctx.textAlign = 'center';
+        ctx.fillText(`${atom.name} (${atom.symbol})`, centerX, centerY - 20);
+        ctx.font = '16px Arial';
+        ctx.fillText(`${atom.shells.length} electron shells`, centerX, centerY + 10);
+        ctx.fillText(`Shells: ${atom.shells.join(', ')}`, centerX, centerY + 35);
         return;
     }
     
@@ -121,14 +170,14 @@ function drawAtom(atomicNumber) {
     ctx.fillText(`(${atom.symbol}) - ${atom.electrons} electrons`, centerX, 55);
 }
 
-// Listen for element selection changes
+// Event listener for dropdown
 const elementSelect = document.getElementById('elementSelect');
 elementSelect.addEventListener('change', function() {
     const atomicNumber = parseInt(this.value);
     drawAtom(atomicNumber);
 });
 
-// Draw hydrogen on page load
-drawAtom(1);
+// Load data when page loads
+loadElementsData();
 
-console.log('Atom Visualizer ready! 🎨⚛️');
+console.log('Atom Visualizer Phase 2 ready! 🎨⚛️📊');
