@@ -344,7 +344,7 @@ h1 {
   color: #000;
 }
 
-.view-page-button {
+.view-page-button { /*Selector Specificity: 0, 1, 0 */
   display: inline-block;
   margin-top: 25px;
   padding: 12px 30px;
@@ -357,7 +357,7 @@ h1 {
   box-shadow: 0 4px 8px rgba(52, 152, 219, 0.3);
 }
 
-.view-page-button:hover {
+.view-page-button:hover { /*Selector Specificity: 0, 2, 0 */
   background: linear-gradient(135deg, #2980b9 0%, #3498db 100%);
   transform: translateY(-2px);
   box-shadow: 0 4px 15px rgba(52, 152, 219, 0.4);
@@ -373,7 +373,7 @@ h1 {
   }
 }
 
-.popup-overlay {
+.popup-overlay { /*Selector Specificity: 0, 1, 0 */ 
   position: fixed;
   top: 0;
   left: 0;
