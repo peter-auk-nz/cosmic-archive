@@ -14,7 +14,7 @@ A data-driven periodic table website featuring all 118 elements with interactive
 - Atom visualizer with Bohr models
 - Element comparison tool
 
-## Projects (4 of 9 Complete)
+## Projects (6 of 9 Complete)
 
 **Completed:**
 
@@ -26,13 +26,13 @@ A data-driven periodic table website featuring all 118 elements with interactive
 
 ✅ **Project 4: Interactive Periodic Table** - Period colors and filters (2026-04-12) 🎨
 
-**In Progress:**
+✅ **Project 5: Element Comparison** - Compare two elements side-by-side (2026-04-20) ⚖️
 
-⏳ **Project 5: Element Comparison** - Compare two elements side-by-side
+✅ **Project 6: Atom Visualizer** - Bohr models for elements 1-36, data display for 37-118 (2026-04-20) ⚛️
 
 **Upcoming:**
 
-⏳ **Projects 6-9** - To be determined
+⏳ **Projects 7-9** - To be determined
 
 ## Development Timeline
 
@@ -45,6 +45,7 @@ A data-driven periodic table website featuring all 118 elements with interactive
 - **2026-03-25** - Added heading and quiz link to main page
 - **2026-04-05** - Added interactive element popup feature
 - **2026-04-20** - Added Atom Visualizer with Bohr models 1-36, data display for 37-118
+- **2026-04-20** - Added Element Comparison feature
 
 ## Live Site
 
