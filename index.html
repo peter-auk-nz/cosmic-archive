@@ -10,12 +10,32 @@
     <main>
     <h1>Cosmic Archive - Periodic Table of Elements</h1>
     <!-- Element Search Box -->
-    <div class="search-container">
+    <div class="search-container" role="search" aria-label="Element Search">
+         
+        <label 
+        for="element-search" class="visually-hidden">Search for an element by name or symbol"
+        </label>
+        
         <input 
             type="text" 
-            id="element-search" 
-         placeholder="Search for an element (e.g., Oxygen or O)">
-    <button id="search-button">Search</button>
+            id="element-search"
+            aria-label="Search for an element by name or symbol"
+            aria-describedby="search-instructions"  
+            placeholder="Search for an element (e.g., Oxygen or O)">
+    
+        <button id="search-button" aria-label="Search for element">Search</button>
+        
+        <span id="search-instructions" class="visually-hidden">
+           Type the element name or symbol and press Search or Enter to find it.
+        </span>
+    </div>
+
+    <!-- Results announcement for screen readers -->
+    <div id="search-results-announce" 
+         class="visually-hidden" 
+         role="status" 
+         aria-live="polite" 
+         aria-atomic="true">
     </div>
 
     <div class="quiz-link-container">
