@@ -11,14 +11,14 @@ A data-driven periodic table website featuring all 118 elements with interactive
 - Element search with highlight and scroll
 - Element quiz system
 - Interactive popup feature
-- Atom visualizer with Bohr models
 - Element comparison tool
+- Atom visualizer with Bohr models
 
 ## Projects (6 of 9 Complete)
 
 **Completed:**
 
-✅ **Project 1: Element Search** - Search and highlight elements (2026-03-22) 🔍
+✅ **Project 1: Element Search** - Search and highlight elements (Created 2026-03-22, ARIA added 2026-04-30) 🔍
 
 ✅ **Project 2: Element Quiz** - Test your element knowledge (2026-03-23) 🧩
 
@@ -46,6 +46,7 @@ A data-driven periodic table website featuring all 118 elements with interactive
 - **2026-04-05** - Added interactive element popup feature
 - **2026-04-20** - Added Atom Visualizer with Bohr models 1-36, data display for 37-118
 - **2026-04-20** - Added Element Comparison feature
+- **2026-04-30** - Enhanced Element Search with ARIA accessibility features
 
 ## Live Site
 
