@@ -29,16 +29,19 @@ fetch('elements-data.json')
         const link = document.createElement('a');
         link.href = `element-${element.atomicNumber}.html`;
         link.textContent = `${element.atomicNumber} - ${element.name} (${element.symbol})`;
-      
+
+        // Stop it from going to the page      
  link.addEventListener('click', function(event) {
     event.preventDefault(); // Stop it from going to the page
+
  
   // Get popup elements
   const popup = document.getElementById('element-popup');
   const popupName = document.getElementById('popup-element-name');
   const popupInfo = document.getElementById('popup-element-info');
   const viewPageButton = document.getElementById('popup-view-page');
-  
+
+
   // Fill in element info
   popupName.textContent = `${element.name} (${element.symbol})`; 
   popupInfo.innerHTML = `Atomic Number: ${element.atomicNumber}<br>
@@ -51,12 +54,23 @@ fetch('elements-data.json')
   // Show popup
   popup.classList.remove('popup-hidden');
   document.getElementById('popup-overlay').classList.remove('popup-hidden');
-  });
 
-  container.appendChild(link);
+  // ARIA: Move focus to close button when popup opens
+  const closeButton = popup.querySelector('.close-button');
+  if (closeButton) {
+    closeButton.focus();
+  }
+
+
+// ARIA: Store which element opened the popup
+  popup.dataset.triggeredBy = event.target.id || 'unknown';
+ })
+   
+container.appendChild(link);
       });
     });
   });
+
     
 
 // ===================================
@@ -92,7 +106,7 @@ fetch('elements-data.json')
         // Highlight it
         link.style.backgroundColor = 'yellow';
         link.style.padding = '0.5rem';
-        link.style.borderRadius = '5px';   }
+        link.style.borderRadius = '5px'; }
         
         // Anounce the result
         const elementName = link.textContent;
@@ -126,34 +140,71 @@ fetch('elements-data.json')
         });
     });
 
-// Close popup when X is clicked
-document.addEventListener('DOMContentLoaded', function() {
-  const closeButton = document.querySelector('.close-button');
+// Close popup handlers 
+document.addEventListener('DOMContentLoaded', function() {  
   const popup = document.getElementById('element-popup');
-  
+  const closeButton = document.querySelector('.close-button');
+  const overlay = document.getElementById('popup-overlay');
+
+// 1. Close button click
   if (closeButton) {
     closeButton.addEventListener('click', function() {
       popup.classList.add('popup-hidden');
-       document.getElementById('popup-overlay').classList.add('popup-hidden');
-    });
-  }
+      overlay.classList.add('popup-hidden');
+    
+//ARIA Return focus to element that opened popup
+  const triggerId = popup.dataset.triggeredBy;
+  if (triggerId && triggerId !== 'unknown') {
+    const triggerElement = document.getElementById(triggerId);
+    if (triggerElement) triggerElement.focus();
+    }
+  });
+}
   
-  // Close popup when clicking outside
-  popup.addEventListener('click', function(event) {
-    if (event.target === popup) {
+// 2. Click outside popup (on overlay)
+   overlay.addEventListener('click', function() {
+    popup.classList.add('popup-hidden');
+    overlay.classList.add('popup-hidden');
+
+    // ARIA: Return focus
+  const triggerId = popup.dataset.triggeredBy;
+  if (triggerId && triggerId !== 'unknown') {
+    const triggerElement = document.getElementById(triggerId);
+      if (triggerElement) { triggerElement.focus();
+      }
+
+      // 2B. ARIA: Also close when clicking on popup background
+    popup.addEventListener('click', function(event) {
+    if (event.target === popup) { // Only if clicking on the popup background, not content
       popup.classList.add('popup-hidden');
-       document.getElementById('popup-overlay').classList.add('popup-hidden');
+      overlay.classList.add('popup-hidden');  
+    }
+    });
+
+      // ARIA: Return focus
+const triggerId = popup.dataset.triggeredBy;
+  if (triggerId && triggerId !== 'unknown') {
+    const triggerElement = document.getElementById(triggerId);
+      if (triggerElement) triggerElement.focus();
+      }
     }
   });
 });
 
-// Close popup with ESC key
+// 3. ESC key
 document.addEventListener('keydown', function(event) {
   if (event.key === 'Escape' || event.key === 'Esc') {
     const popup = document.getElementById('element-popup');
     if (!popup.classList.contains('popup-hidden')) {
       popup.classList.add('popup-hidden');
-       document.getElementById('popup-overlay').classList.add('popup-hidden');
+      document.getElementById('popup-overlay').classList.add('popup-hidden');
+
+       // ARIA: Return focus
+      const triggerId = popup.dataset.triggeredBy;
+      if (triggerId && triggerId !== 'unknown') {
+        const triggerElement = document.getElementById(triggerId);
+        if (triggerElement) triggerElement.focus();
+        } 
+      }
     }
-  }
-});
+  });
