@@ -3,9 +3,7 @@ async function buildPeriodicTable() {
   try {
     const response = await fetch('elements-data.json');
     const elements = await response.json();
-    
     const table = document.getElementById('periodicTable');
-    
     // Create 118 grid positions (7 periods × 18 columns)
     const positions = createGridPositions(elements);
     
@@ -22,7 +20,7 @@ async function buildPeriodicTable() {
           <span class="atomic-number">${el.atomicNumber}</span>
           <div class="symbol">${el.symbol}</div>
           <div class="name">${el.name}</div>
-        `;
+        `; 
         
         // Click to open element page
         div.addEventListener('click', () => {
@@ -40,10 +38,11 @@ async function buildPeriodicTable() {
     console.error('Error loading elements:', error);
   }
 }
-
+// Grid building engine ends here
+ 
 // Calculate period from atomic number
 function getPeriod(atomicNumber) {
-  if (atomicNumber <= 2) return 1;
+  if (atomicNumber <= 2)  return 1;
   if (atomicNumber <= 10) return 2;
   if (atomicNumber <= 18) return 3;
   if (atomicNumber <= 36) return 4;
@@ -51,6 +50,7 @@ function getPeriod(atomicNumber) {
   if (atomicNumber <= 86) return 6;
   return 7;
 }
+// Function that powers the period colouring ends here
 
 // Create grid positions with proper gaps
 function createGridPositions(elements) {

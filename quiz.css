@@ -131,3 +131,25 @@
     color: white;
 }
 
+/* Responsive Design */
+@media (max-width: 650px) {
+    h1 {
+        font-size: 2em;
+    }
+
+    canvas {
+        width: 100%;
+        height: auto;
+    }
+
+    .controls {
+        padding: 15px;
+
+    label {
+        font-size: 1em;
+        margin-bottom: 10px;
+    }
+
+   
+    }
+}
