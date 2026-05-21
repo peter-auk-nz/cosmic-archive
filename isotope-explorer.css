@@ -1,0 +1,46 @@
+/* Isotope Explorer */
+.search-container {
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+#element-select {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    width: 100%;
+    max-width: 400px;
+    cursor: pointer;
+}
+
+#isotope-display {
+    max-width: 800 px;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240, 1fr));
+    gap: 1.5rem;
+    padding: 0 1rem;
+}
+
+.isotope-card h3 {
+    color: #c8a96e;
+    margin-bottom: 1rem;
+}
+
+.isotope-card p {
+    color: #e8e8e8;
+    font-size: 0.9rem;
+    margin: 0.3rem 0;
+}
+
+.stable {
+    color:#90ee90;
+    font-weight: 600;
+}
+
+.unstable {
+    color: #ff6b6b;
+    font-weight: 600;
+}
