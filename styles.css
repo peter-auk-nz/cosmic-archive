@@ -17,9 +17,6 @@ body {
 
 p {
   margin: 1rem 0;
-  display: grid;
-  grid-template-columns: 200px minmax(200px, 400px);
-  gap: 2rem;
 }
 
 strong {
@@ -496,4 +493,24 @@ h1 {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+
+.home-link {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  color: #667eea;
+  text-decoration: none;
+  font-size: 0.9rem;
+  margin: 1rem;
+  width: fit-content; 
+}
+
+.home-link:hover {
+  text-decoration: underline;
+}
+
+.home-link .materials-symbols-outlined {
+  font-size: 1.4rem;
 }

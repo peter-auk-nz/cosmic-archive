@@ -1,6 +1,9 @@
 /* ===================================
    QUIZ PAGE STYLES
    =================================== */
+h1 {
+    text-align: center;
+}
 
 .quiz-container {
     max-width: 800px;
@@ -149,7 +152,21 @@
         font-size: 1em;
         margin-bottom: 10px;
     }
+    .home-link {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.5rem 1rem;
+            color: #667eea;
+            text-decoration: none;
+            font-size: 0.9rem;
+            margin: 1rem;
+            width: fit-content;
+        }
 
+        .home-link .material-symbols-outlined {
+            font-size: 1.4rem;
+        }
    
     }
 }
