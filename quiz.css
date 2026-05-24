@@ -1,10 +1,6 @@
 /* ===================================
    QUIZ PAGE STYLES
    =================================== */
-h1 {
-    text-align: center;
-}
-
 .quiz-container {
     max-width: 800px;
     margin: 2rem auto;
@@ -136,37 +132,39 @@ h1 {
 
 /* Responsive Design */
 @media (max-width: 650px) {
-    h1 {
-        font-size: 2em;
-    }
-
-    canvas {
-        width: 100%;
-        height: auto;
-    }
-
-    .controls {
-        padding: 15px;
-
-    label {
-        font-size: 1em;
-        margin-bottom: 10px;
-    }
-    .home-link {
-            display: flex;
-            align-items: center;
-            gap: 0.4rem;
-            padding: 0.5rem 1rem;
-            color: #667eea;
-            text-decoration: none;
-            font-size: 0.9rem;
-            margin: 1rem;
-            width: fit-content;
-        }
-
-        .home-link .material-symbols-outlined {
-            font-size: 1.4rem;
-        }
-   
-    }
 }
+    
+h1 {
+    font-size: 2em;
+    text-align: center;
+}
+
+canvas {
+    width: 100%;
+    height: auto;
+}
+
+.controls {
+    padding: 15px;
+}
+
+label {
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+/*Icons*/
+.page-nav {
+        text-align: center;
+        padding: 1rem;
+}
+        
+.page-nav .material-symbols-outlined {
+        font-size: 2rem;
+        color: #667eea;
+        cursor: pointer;
+}
+
+    .page-nav .material-symbols-outlined:hover {
+        color: #764ba2;
+}
+/*End icons*/
