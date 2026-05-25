@@ -1,44 +1,44 @@
 {
-    "isotopes": [
-    {
-        "atomicNumber": 1,
-        "element": "Hydrogen",
-        "symbol": "H",
-        "isotopes": [
-            {
-            "name": "Protium",
-            "massNumber": 1,
-            "neutrons": 0,
-            "stable": true,
-            "abundance": "99.98%",
-            "halfLife": "Stable"
-            },
-            {
-            "name": "Deuterium",
-            "massNumber": 2,
-            "neutrons": 1,
-            "stable": true,
-            "abundance": "0.02%",
-            "halfLife": "Stable"
-            },
-            {
-            "name": "Tritium",
-            "massNumber": 3,
-            "neutrons": 2,
-            "stable": false,
-            "abundance": "Trace",
-            "halfLife": "12.32 years"
-            }
-        ]   
-    },
-            
+    "isotopes":[
 
             {
-        "atomicNumber": 2,
-        "element": "Helium",
-        "symbol": "He",
-        "isotopes": [ 
+                "atomicNumber": 1,
+                "element": "Hydrogen",
+                "symbol": "H",
+                "isotopes": [
+                {
+                "name": "Protium",
+                "massNumber": 1,
+                "neutrons": 0,
+                "stable": true,
+                "abundance": "99.98%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Deuterium",
+                "massNumber": 2,
+                "neutrons": 1,
+                "stable": true,
+                "abundance": "0.02%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Tritium",
+                "massNumber": 3,
+                "neutrons": 2,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "12.32 years"
+                }
+            ]   
+        },
+            
             {
+                "atomicNumber": 2,
+                "element": "Helium",
+                "symbol": "He",
+                "isotopes": [ 
+                {
                 "name": "Helium-3",
                 "massNumber": 3,
                 "neutrons": 1,
@@ -57,68 +57,114 @@
             ]
         },
                 
-                {
+            {    
                 "atomicNumber": 6,
                 "element": "Carbon",
                 "symbol": "C",
                 "isotopes": [
-                    {
-                     "name": "Carbon-12",
-                     "massNumber": 12,
-                     "neutrons": 6,
-                     "stable": true,
-                     "abundance": "98.89%",
-                     "halfLife": "Stable"
-                    },
-                    {
-                    "name": "Carbon-13",
-                    "massNumber": 13,
-                    "neutrons": 7,
-                    "stable": true,
-                    "abundance": "1.11%",
-                    "halfLife": "Stable"   
-                    },
-                    {
-                    "name": "Carbon-14",
-                    "massNumber": 14,
-                    "neutrons": 8,
-                    "stable": false,
-                    "abundance": "Trace",
-                    "halfLife": "5,730 years"
-                    }
-                ]
-            },
+                {
+                "name": "Carbon-12",
+                "massNumber": 12,
+                "neutrons": 6,
+                "stable": true,
+                "abundance": "98.89%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Carbon-13",
+                "massNumber": 13,
+                "neutrons": 7,
+                "stable": true,
+                "abundance": "1.11%",
+                "halfLife": "Stable"   
+                },
+                {
+                "name": "Carbon-14",
+                "massNumber": 14,
+                "neutrons": 8,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "5,730 years"
+                }
+            ]
+        },
+            
+            {
+                "atomicNumber": 8,
+                "element": "Oxygen",
+                "symbol": "O",
+                "isotopes": [
+                {
+                "name": "Oxygen-16",
+                "massNumber": 16,
+                "neutrons": 8,
+                "stable": true,
+                "abundance": "99.76%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Oxygen-17",
+                "massNumber": 17,
+                "neutrons": 9,
+                "stable": true,
+                "abundance": "0.04%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Oxygen-18",
+                "massNumber": 18,
+                "neutrons": 10,
+                "stable": true,
+                "abundance": "0.20%",
+                "halfLife": "Stable"
+                }
+            ]
+        },
             
             {
                 "atomicNumber": 92,
                 "element": "Uranium",
                 "symbol": "U",
                 "isotopes": [ 
-                    {
-                    "name": "Uranium-234",
-                    "massNumber": 234,
-                    "neutrons": 142,
-                    "stable": false,
-                    "abundance": "0.005%",
-                    "halfLife": "245,000 years"
-                    },
-                    {
-                    "name": "Uranium-235",
-                    "massNumber": 235,
-                    "neutrons": 143,
-                    "stable": false,
-                    "abundance": "0.72%",
-                    "halfLife": "703.8 million years"
-                    },
-                    {  
-                    "name": "Uranium-238",
-                    "massNumber": 238,
-                    "neutrons": 146,
-                    "stable": false,
-                    "abundance": "99.27%",
-                    "halfLife": "4.47 billion years"
-                }
-
+                {
+                "name": "Uranium-235",
+                "massNumber": 235,
+                "neutrons": 143,
+                "stable": false,
+                "abundance": "0.72%",
+                "halfLife": "703.8 million years"
+                },
+                {  
+                "name": "Uranium-238",
+                "massNumber": 238,
+                "neutrons": 146,
+                "stable": false,
+                "abundance": "99.27%"
+                },
+                {
+                "name": "Uranium-234",
+                "massNumber": 234,
+                "neutrons": 142,
+                "stable": false,
+                "abundance": "0.005%",
+                "halfLife": "245,000 years"
+                },
+                {
+                "name": "Uranium-235",
+                "massNumber": 235,
+                "neutrons": 143,
+                "stable": false,
+                "abundance": "0.72%",
+                "halfLife": "703.8 million years"
+                },
+                {  
+                "name": "Uranium-238",
+                "massNumber": 238,
+                "neutrons": 146,
+                "stable": false,
+                "abundance": "99.27%",
+                "halfLife": "4.47 billion years"
+                }   
             ]
         }
     ]
