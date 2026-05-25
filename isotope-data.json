@@ -120,7 +120,139 @@
                 }
             ]
         },
-            
+            {
+                "atomicNumber": 26,
+                "element": "Iron",
+                "symbol": "FE",
+                "isotopes": [ 
+                {
+                "name": "Iron-54",
+                "massNumber": 54,
+                "neutrons": 28,
+                "stable": true,
+                "abundance": "5.85%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Iron-56",
+                "massNumber": 56,
+                "neutrons": 30,
+                "stable": true,
+                "abundance": "91.75%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Iron-57",
+                "massNumber": 57,
+                "neutrons": 31,
+                "stable": true,
+                "abundance": "2.12%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Iron-58",
+                "massNumber": 58,
+                "neutrons": 32,
+                "stable": true,
+                "abundance": "0.28%",
+                "halfLife": "Stable"
+                }
+            ]
+        },    
+            {   "atomicNumber": 53,
+                "element": "Iodine",
+                "symbol": "I",
+                "isotopes": [ 
+                
+                {
+                "name": "Iodine-127",
+                "massNumber": 127,
+                "neutrons": 74,
+                "stable": true,
+                "abundance": "100%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Iodine-131",
+                "massNumber": 131,
+                "neutrons": 78,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "8.02 days"   
+                },
+                {
+                "name": "Iodine-129",
+                "massNumber": 129,
+                "neutrons": 76,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "17.7 million years"
+                }
+            ]
+        },
+            {   
+                "atomicNumber": 79,
+                "element": "Gold",
+                "symbol": "Au",
+                "isotopes": [ 
+                {
+                "name": "Gold-197",
+                "massNumber": 197,
+                "neutrons": 118,
+                "stable": true,
+                "abundance": "100%",
+                "halfLife": "Stable"
+                },
+                {
+                "name": "Gold-195",
+                "massNumber": 195,
+                "neutrons": 116,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "186.1 days"
+                },
+                {
+                "name": "Gold-198",
+                "massNumber": 198,
+                "neutrons": 119,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "2.69 days"
+                }
+            ]
+        },
+            {
+                "atomicNumber": 88,
+                "element": "Radium",
+                "symbol": "Ra",
+                "isotopes": [ 
+                {
+                "name": "Radium-226",
+                "massNumber": 226,
+                "neutrons": 138,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "1,600 years"
+                },
+                {
+                "name": "Radium-228",
+                "massNumber": 228,
+                "neutrons": 140,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "5.75 years"
+                },
+                {
+                "name": "Radium-224",
+                "massNumber": 224,
+                "neutrons": 136,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "3.63 days"
+                }
+            ]
+        },  
+
             {
                 "atomicNumber": 92,
                 "element": "Uranium",
@@ -164,6 +296,38 @@
                 "stable": false,
                 "abundance": "99.27%",
                 "halfLife": "4.47 billion years"
+                }
+            ]
+        },      
+            {
+                "atomicNumber": 94,
+                "element": "Plutonium",
+                "symbol": "Pu",
+                "isotopes": [
+                {
+                "name": "Plutonium-238",
+                "massNumber": 238,
+                "neutrons": 144,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "87.7 years"
+                },
+                {
+                "name": "Plutonium-239",
+                "massNumber": 239,
+                "neutrons": 145,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "24,100 years"
+                },
+                {
+                "name": "Plutonium-240",
+                "massNumber": 240,
+                "neutrons": 146,
+                "stable": false,
+                "abundance": "Trace",
+                "halfLife": "6,561 years"
+                
                 }   
             ]
         }
