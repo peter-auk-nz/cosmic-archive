@@ -1,0 +1,69 @@
+{
+    "discoveries": [
+        {
+            "year": 1669,
+            "element": "Phosphorus",
+            "symbol": "P",
+            "atomicNumber": 15,
+            "discoverer": "Hennig Brand",
+            "description": "A non-metallic element that is essential for life and is found in many organic compounds."
+        },
+        {
+            "year": 1766,
+            "element": "Hydrogen",
+            "symbol": "H",
+            "atomicNumber": 1,
+            "discoverer": "Henry Cavendish",
+            "description": "The lightest and most abundant chemical element in the universe."
+        },
+        {
+            "year": 1774,
+            "element": "Oxygen",
+            "symbol": "O",
+            "atomicNumber": 8,
+            "discoverer": "Carl Wilhelm Scheele",
+            "description": "A highly reactive non-metallic element that is essential for combustion and respiration."
+        },
+        {
+            "year": 1789,
+            "element": "Uranium",
+            "symbol": "U",
+            "atomicNumber": 92,
+            "discoverer": "Martin Heinrich Klaproth",
+            "description": "Discovered in pitchblende ore, later found to be radioactive."
+        },
+        {
+            "year": 1808,
+            "element": "Calcium",
+            "symbol": "Ca",
+            "atomicNumber": 20,
+            "discoverer": "Humphry Davy",
+            "description": "Isolated using electrolysis, one of several elements Davy discovered."
+        },
+        {
+            "year": 1895,
+            "element": "Helium",
+            "symbol": "He",
+            "atomicNumber": 2,
+            "discoverer": "William Ramsay",
+            "description": "First detected in sun before being found on earth."
+        },
+        {
+            "year": 1898,
+            "element": "Radium",
+            "symbol": "Ra",
+            "atomicNumber": 88,
+            "discoverer": "Marie and Pierre Curie",
+            "description": "Discovered through painstaking isolation from pitchblende ore.,"
+        },
+        {
+            "year": 1940,
+            "element": "Plutonium",
+            "symbol": "Pu",
+            "atomicNumber": 94,
+            "discoverer": "Glenn T. Seaborg, Edwin McMillan, Joseph W. Kennedy, Arthur C. Wahl",
+            "description": "First synthesized in at Berkeley, later used in the Manhatten Project."
+        }
+
+    ]
+}

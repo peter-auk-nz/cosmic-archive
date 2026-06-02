@@ -514,3 +514,78 @@ h1 {
 .home-link .materials-symbols-outlined {
   font-size: 1.4rem;
 }
+
+/* Discovery Timeline Styles */
+.timeline-entry {
+  display: flex;
+  gap: 2rem;
+  margin: 2rem;
+  padding: 0 1rem; 
+}
+
+.timeline-year {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #667eea;
+  min-width: 80px;
+  text-align: right;
+}
+
+.timeline-content {
+  border-left: 3px solid #667eea;
+  padding-left: 1.5rem;
+}
+
+.timeline-content h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem; 
+}
+
+header p {
+  text-align: center;
+  font-size: 1.1rem;  
+}
+
+.discoverer {
+  color: #888;
+  font-size: 0.9rem;
+  margin-bottom: 0.3rem;
+}
+
+.description {
+ font-size: 0.9rem;
+}
+
+/* Element Discovery Timeline Feature Link */
+.timeline-feature {
+  margin: 40px 0;
+  padding: 30px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.timeline-feature:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+}
+
+.timeline-feature a {
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  padding: 15px 30px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  transition: all 0.3s ease;
+}
+
+.timeline-feature a:hover {
+  background: rgba(255, 255, 255, 0.3);
+  transform: scale(1.05);
+}
